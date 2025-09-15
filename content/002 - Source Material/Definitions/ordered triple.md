@@ -1,0 +1,2 @@
+- We can also define Cartesian products of three or more sets by moving beyond ordered pairs. - 
+- An ordered triple is a list (x, y, z).

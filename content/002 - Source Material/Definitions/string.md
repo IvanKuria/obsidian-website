@@ -1,0 +1,1 @@
+- A list of symbols written without parentheses and commas

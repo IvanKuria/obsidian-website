@@ -1,0 +1,1 @@
+- is an ordered sequence of objects

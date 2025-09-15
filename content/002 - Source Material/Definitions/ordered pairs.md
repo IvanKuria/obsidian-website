@@ -1,0 +1,1 @@
+- is a list (x, y) of two things x and y, enclosed in parentheses and separated by a comma.

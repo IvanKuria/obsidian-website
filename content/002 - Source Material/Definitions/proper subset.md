@@ -1,0 +1,1 @@
+- if A $\subseteq$ B and A $\neq$ B

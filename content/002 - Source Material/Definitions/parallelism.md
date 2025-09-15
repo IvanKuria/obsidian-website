@@ -1,0 +1,1 @@
+- is equal to [[throughput]](bandwidth) * [[latency]]

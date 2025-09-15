@@ -1,0 +1,2 @@
+- Assume a set called ${X}$:
+- is a non-repetitive list made from k elements of X .

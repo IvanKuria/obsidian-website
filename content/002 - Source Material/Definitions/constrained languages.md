@@ -1,0 +1,2 @@
+- languages that limit what the programmer can do
+- i.e. *java*

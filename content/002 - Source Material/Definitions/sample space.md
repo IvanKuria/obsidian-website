@@ -1,0 +1,1 @@
+- is the set of all possible outcomes of the experiment.

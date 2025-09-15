@@ -1,0 +1,1 @@
+- From two true statements we infer that a third statement is true. 

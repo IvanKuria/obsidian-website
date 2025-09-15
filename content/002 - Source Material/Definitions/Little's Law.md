@@ -1,0 +1,1 @@
+- refers to the average number of transactions in a stable system is equal to their average arrival rate, multiplied by their average time in the system.

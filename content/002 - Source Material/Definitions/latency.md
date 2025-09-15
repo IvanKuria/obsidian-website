@@ -1,0 +1,1 @@
+- is the interval between stimulation and response(basically how long it takes to do a task)

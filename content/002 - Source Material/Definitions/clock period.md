@@ -1,0 +1,1 @@
+- refers to the duration of a clock cycle

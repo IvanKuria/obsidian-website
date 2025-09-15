@@ -1,0 +1,1 @@
+- is a way to scale transistor parameters(including voltage) to keep power density constant

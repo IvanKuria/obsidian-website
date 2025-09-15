@@ -1,0 +1,1 @@
+- a relation on a set $A$ is a subset $R ⊆ A × A$. We often abbreviate the statement $(x, y) ∈ R$ as $xR y$. The statement $(x, y) ∉ R$ is abbreviated as $x\not R y$

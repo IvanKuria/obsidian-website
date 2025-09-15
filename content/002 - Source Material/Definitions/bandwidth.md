@@ -1,0 +1,1 @@
+- refers to how much of $X$ work is done in a given time

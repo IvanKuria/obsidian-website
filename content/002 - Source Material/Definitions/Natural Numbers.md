@@ -1,0 +1,2 @@
+- the positive integers (whole numbers) 1, 2, 3, etc., and sometimes zero as well.
+- set of all natural numbers

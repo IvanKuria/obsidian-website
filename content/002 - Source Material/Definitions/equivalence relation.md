@@ -1,0 +1,1 @@
+- A [[relation]] R on a set A is an equivalence relation if it is reflexive, symmetric and transitive

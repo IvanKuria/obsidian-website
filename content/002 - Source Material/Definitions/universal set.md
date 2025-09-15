@@ -1,0 +1,1 @@
+- it refers to the [[set]] that some set ${A}$ that contains all the elements of ${A}$

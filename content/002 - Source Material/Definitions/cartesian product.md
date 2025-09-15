@@ -1,0 +1,1 @@
+- The Cartesian product of two sets A and B is another set, denoted as A ×B and defined as *A × B = { (a, b) : a ∈ A, b ∈ B}*

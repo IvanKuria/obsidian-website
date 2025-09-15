@@ -1,0 +1,1 @@
+- an empty list with length of 0

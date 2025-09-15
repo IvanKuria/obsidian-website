@@ -1,0 +1,1 @@
+- a [[conditional statement]] where both the conditional statement and its inverse are true

@@ -1,0 +1,1 @@
+- is an arrangement of all of the set’s elements in a row, that is, a list without repetition that uses every element of the set.

@@ -1,0 +1,1 @@
+- is a subset of the sample space $S$, and we say that $A$ occurred if the actual outcome is in $A$.

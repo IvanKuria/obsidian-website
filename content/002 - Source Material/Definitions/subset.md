@@ -1,0 +1,1 @@
+- Suppose A and B are sets. If every element of A is also an element of B, then we say A is a subset of B, and we denote this as *A ⊆ B*

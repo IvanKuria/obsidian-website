@@ -1,0 +1,1 @@
+- A real number $x$ is rational if $x = a/b$ for some $a, b \in \mathbb{Z}$. Also, $x$ is irrational if it is not rational, that is if $x  \neq a/b$ for every $a, b \in Z$

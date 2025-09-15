@@ -1,0 +1,1 @@
+- Let ${A}$ be a set with a universal set ${U}$. The *complement* of ${A}$ denoted $\overline{A}$, is the set $\overline{A}$= ${U}$ − ${A}$.

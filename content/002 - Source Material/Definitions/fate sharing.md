@@ -1,0 +1,1 @@
+- components in a system are tied together in such a way that they share a common fate

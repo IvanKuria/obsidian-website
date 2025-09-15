@@ -1,0 +1,27 @@
+- [ ] desk
+- [ ] laptops
+	- [ ] mac
+	- [ ] thinkpad
+	- [ ] msi
+	- [ ] chargers for all
+- [ ] monitor
+	- [ ] monitor light
+- [ ] mouse
+- [ ] mousepad
+- [ ] keyboards
+	- [ ] gaming keyboard
+	- [ ] mac keyboard
+- [ ] headphones
+	- [ ] regular bluetooth
+	- [ ] gaming headset
+- [ ] clothes
+- [ ] backpack
+- [ ] chair
+- [ ] body essentials
+- [ ] face essentials
+- [ ] powerbank
+- [ ] bed
+	- [ ] blankets
+	- [ ] pillow cases
+	- [ ] bed sheets
+	- [ ] mattress

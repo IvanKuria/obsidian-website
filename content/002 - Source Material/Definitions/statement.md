@@ -1,0 +1,1 @@
+- is a sentence or a mathematical expression that is either definitely true or definitely false.

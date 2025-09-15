@@ -1,0 +1,1 @@
+- a sentence whose truth depends on the value of one or more variables, is called an open sentence

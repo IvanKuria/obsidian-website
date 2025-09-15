@@ -1,0 +1,2 @@
+- a set containing no elements
+- denoted as *∅*

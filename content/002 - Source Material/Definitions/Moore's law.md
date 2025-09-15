@@ -1,0 +1,1 @@
+- states that integrated circuit resources double every 18-24 months.

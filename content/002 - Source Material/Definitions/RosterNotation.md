@@ -1,0 +1,2 @@
+- Standard notation for sets
+- E.g. A = {1, 2 ,3, 4}
