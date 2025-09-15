@@ -7,7 +7,10 @@ tags: [home]
 
 # Hi, I’m Ivan Kuria 👋
 
+![[ivan_pfp.jpg | 200]]
+
 Computer Science student at **UC Santa Cruz** and aspiring **software engineer**. Oh, and I dislike **vim** :)
+
 
 > [!info] Quick Links
 > **Email:** <ikuria@ucsc.edu> · **LinkedIn:** <https://www.linkedin.com/in/ivan-kuria-46ab68312/> · **GitHub:** <https://github.com/IvanKuria>  
