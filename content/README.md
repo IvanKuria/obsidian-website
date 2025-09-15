@@ -15,4 +15,4 @@
 - *File Explorer Note Count* - tells me the number of words and characters in a specific file
 
 ### Theme
-- **Tokyo Night** - best theme hands down
+- **Obsidian Gruvbox**- best theme hands down
