@@ -3,7 +3,7 @@
 
 Status: #adult
 
-Tags: #leetcode #leetcode-medium [[Leetcode]] [[Backtracking Intro]] [[Subsets]]
+Tags: #leetcode #leetcode-medium #backtrack  [[Leetcode]] [[Backtracking Intro]] [[Subsets]]
 
 # [Subsets II](https://leetcode.com/problems/subsets-ii/)
 

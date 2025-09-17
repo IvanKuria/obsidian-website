@@ -3,7 +3,7 @@
 
 Status: #adult 
 
-Tags: #computer-science #leetcode 
+Tags: #computer-science #leetcode #backtrack 
 
 # Backtracking
 
