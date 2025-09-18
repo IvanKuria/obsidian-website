@@ -3,7 +3,7 @@
 
 Status:  #adult
 
-Tags: [[Leetcode]] #two-pointers #linked-lists 
+Tags: [[Leetcode]] #two-pointers #linked-lists #computer-science 
 
 # [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
