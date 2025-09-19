@@ -3,7 +3,7 @@
 
 Status: #child
 
-Tags: #leetcode #leetcode-medium #graphs #google [[Leetcode]] [[Graphs Intro]]
+Tags: #leetcode #leetcode-medium #graphs #google [[Leetcode]] [[Graphs Intro]] #computer-science
 
 # [Course Schedule](https://leetcode.com/problems/course-schedule/)
 

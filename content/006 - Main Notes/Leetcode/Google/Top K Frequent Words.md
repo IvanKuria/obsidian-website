@@ -3,7 +3,7 @@
 
 Status: #adult
 
-Tags: #leetcode #leetcode-medium #heaps [[Leetcode]] [[Heaps Intro]]
+Tags: #leetcode #leetcode-medium #heaps [[Leetcode]] [[Heaps Intro]] #google #computer-science 
 
 # [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 
