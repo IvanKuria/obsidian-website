@@ -11,6 +11,7 @@ Tags: #leetcode #leetcode-medium #heaps [[Heaps Intro]] [[Leetcode]]
 
 ```python
 import heapq
+from collections import Counter
 
 class Solution(object):
     def leastInterval(self, tasks, n):

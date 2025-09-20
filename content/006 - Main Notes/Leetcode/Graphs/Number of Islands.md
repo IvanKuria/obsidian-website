@@ -43,7 +43,11 @@ class Solution(object):
 
 **Time and Space**: $O(m * n)$
 ### Explanation
-1. 
+1. For each element in the matrix, iff it's equal to 1, we'll increment num_islands and call dfs(i, j). But what's dfs here?
+2. **Base case**: if the indices are out of bounds(less than 0, >= to m or n) and if the current element is not 1
+3. We'll then set the current element to 0 to indicate that the element has been seen
+4. Then call dfs for the right(j + 1), up(i + 1), left(j - 1) and down(r - 1)
+5. At the end, return num_islands
 ## References
 
 [Greg Hogg](https://www.youtube.com/watch?v=gCswsDauXPc)

@@ -35,6 +35,13 @@ class Solution(object):
         return res
 ```
 
+### Explanation
+1. For each element in the matrix iff element = 1, res will be the max of res and dfs(i, j). But what is dfs in this case?
+2. **Base case**: we need to check if the indices are out of bounds(less than 0, greater than n or m) and if the current element is not 1
+3. **Else**: we change the element from 1 to 0 to indicate that we're done. 
+4. **Return**: 1 + dfs to the right, top, left, bottom
+5. Then return res at the end
+
 **Time and Space**: $O(m * n)$
 ## References
 
