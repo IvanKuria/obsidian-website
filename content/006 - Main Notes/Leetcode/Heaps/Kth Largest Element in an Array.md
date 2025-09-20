@@ -30,11 +30,6 @@ class Solution(object):
         return heap[0]
 ```
 
-### Explanation
-1. Just like [[K Closest Points to Origin]] without the distance calculations
-2. Iterate through nums, and if the heap length is less than k, well push
-3. Else: heappushpop the current num
-4. Return the first element in heap(heap[0])
 ## References
 
 [Greg Hogg](https://www.youtube.com/watch?v=ZmGk7h8KZLs)
