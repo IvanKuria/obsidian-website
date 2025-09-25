@@ -1,8 +1,9 @@
 ---
-title: "Ivan Kuria — CS @ UCSC"
-description: "Projects, notes, and experiments by Ivan Kuria"
+title: Ivan Kuria — CS @ UCSC
+description: Projects, notes, and experiments by Ivan Kuria
 enableToc: false
-tags: [home]
+tags:
+  - home
 ---
 
 # Hi, I’m Ivan Kuria 👋
