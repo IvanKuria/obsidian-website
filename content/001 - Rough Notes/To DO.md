@@ -1,1 +1,0 @@
- - [ ] contact prof about essay due yesterday

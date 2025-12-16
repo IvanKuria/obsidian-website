@@ -70,7 +70,7 @@ stack = [source]
 
 while stack:
 	node = stack.pop()
-	# print(node)
+	print(node)
 	for nei_node in D[node]:
 		if nei_node not in seen:
 			seen.add(nei_node)
