@@ -1,9 +1,9 @@
 
 2024-10-05  20:20
 
-Status: #adult
+Status: #child 
 
-Tags: [[Leetcode]] #linked-lists #computer-science 
+Tags: [[Leetcode]]
 
 #  [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
@@ -32,13 +32,12 @@ class Solution(object):
 
 ### Explanation
 1. We initialize two pointers, one that points to the current node(*curr*) and one that points to the previous node(*prev*)
-2. We initialize a while loop that checks if the current node(*curr*) is None.
+2. We initialize a while loop that checks if the current node(*curr*) is Null.
 3. Set a var *nxt* = *curr.next*(next node) in order to store it for later(you'll see why)
 4. Set curr.next = to the previous node(prev)
 5. Set the prev = curr
 6. Set curr = nxt
 
-**Time**: O(n)
-**Space**: O(1) auxillary
+### Big O
 ## References
 [Neetcode](https://leetcode.com/problems/reverse-linked-list/)
