@@ -3,7 +3,7 @@
 
 Status: #child
 
-Tags: #leetcode #leetcode-easy #trees #binary-trees [[Leetcode]]
+Tags: #leetcode #leetcode-easy #trees #binary-trees #computer-science  [[Leetcode]]
 
 # [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 
@@ -36,7 +36,17 @@ class Solution(object):
 
 ![[Pasted image 20250106132952.png]]
 ### Explanation
-- pretty self explanatory but store one of the roots(root.left) in a temp and the rest is easy
+1. If the root is None, return  
+  
+2. Set tmp = root.left(you'll see why)  
+  
+3. root.left = root.right because we're inverting the positions  
+  
+4. root.right = tmp because root.left got overidden  
+  
+5. Call self.invertTree(root.left) and self.invertTree(root.right)  
+  
+6. Return root
 
 ## References
 

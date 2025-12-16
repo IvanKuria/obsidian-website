@@ -23,8 +23,10 @@
 
 ## 2025-2026
 
-| Fall 2025                    | Winter 2026 | Spring 2026     |
-| ---------------------------- | ----------- | --------------- |
-| CSE 102(MWF 12:00PM-01:05PM) | CSE 101M    | Elective 1: CSE |
-| CSE 103                      | CSE 114a    | Elective 2      |
-| ECE 30                       | CSE 115a    | Elective 3      |
+| Fall 2025 | Winter 2026                                                    | Spring 2026                                                    |
+| --------- | -------------------------------------------------------------- | -------------------------------------------------------------- |
+| CSE 101M  | CSE 102                                                        | ECE 30                                                         |
+| CSE 115A  | CSE 103                                                        | CMPM  131                                                      |
+| GE        | CSE 114A                                                       | [CSE 138](https://courses.engineering.ucsc.edu/courses/cse138) |
+|           | [CSE 111](https://courses.engineering.ucsc.edu/courses/cse111) |                                                                |
+ 
