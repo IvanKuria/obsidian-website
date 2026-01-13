@@ -1,0 +1,1 @@
+- are associations of parameters to variables. We say a variable occurrence is bound if it's part of a binding and otherwise it's free.

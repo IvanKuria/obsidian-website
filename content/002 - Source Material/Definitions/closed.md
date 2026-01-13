@@ -1,0 +1,1 @@
+- An expression $e$ is closed if $FV(e) = \{\}$ (i.e. it has no free variables)
