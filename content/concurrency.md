@@ -1,0 +1,1 @@
+- multiple threads taking turns executing on the same hardware resource.
