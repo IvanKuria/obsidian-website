@@ -1,1 +1,2 @@
 - A list of symbols written without parentheses and commas
+- is a finite sequence of symbols [[CSE 103]]

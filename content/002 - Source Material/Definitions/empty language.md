@@ -1,0 +1,1 @@
+- is $\emptyset$ is the set with no strings [[CSE 103]]

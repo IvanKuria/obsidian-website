@@ -1,0 +1,1 @@
+- is a set of strings(finite or infinite) - in our case just finite [[CSE 103]]
