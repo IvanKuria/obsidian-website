@@ -1,9 +1,18 @@
+---
+title: "Largest Rectangle in Histogram"
+type: problem
+difficulty: hard
+techniques:
+  - stack
+date: 2024-09-03
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]]
 
-2024-09-03  18:19
-
-Status: #child 
-
-Tags: [[Leetcode]] #leetcode #leetcode-hard #stack 
 
 # [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 

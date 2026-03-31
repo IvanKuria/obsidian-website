@@ -1,7 +1,12 @@
-Class: [[CSE 130]]
-Subject: #computer-science #computer-systems 
-Date: 2025-04-14
-Teacher: **Dr. Veenstra
+---
+title: "Lecture 03"
+type: lecture
+class: CSE 130
+date: 2025-04-14
+tags:
+  - cs
+  - operating-systems
+---
 
 # C Strings, Variables and Unix File IO
 
@@ -10,7 +15,7 @@ Teacher: **Dr. Veenstra
 ### Problems
 1. Need to move through the string to get it's length
 2. Strings can't have zero bytes
-	- i.e. ![[Pasted image 20250414072419.png | 500]]
+	- i.e. ![[cse130-c-string-with-zero-bytes.png | 500]]
 
 #### What is sizeof(t)?
 - 10

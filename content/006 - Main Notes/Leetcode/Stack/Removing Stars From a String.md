@@ -1,9 +1,19 @@
+---
+title: "Removing Stars From a String"
+type: problem
+difficulty: medium
+techniques:
+  - arrays
+  - stack
+date: 2024-12-20
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]] | [[Complexity Cheat Sheet]]
 
-2024-12-20  17:34
-
-Status: #child #leetcode #leetcode-medium 
-
-Tags: #stack #arrays [[Leetcode]]
 
 # [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
 

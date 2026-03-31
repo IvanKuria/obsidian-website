@@ -1,9 +1,18 @@
+---
+title: "K Closest Points to Origin"
+type: problem
+difficulty: medium
+techniques:
+  - heaps
+date: 2025-09-10
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Heaps Intro]] | [[Leetcode MOC]] | [[Complexity Cheat Sheet]]
 
-2025-09-10  11:04
-
-Status: #child
-
-Tags: #leetcode [[Leetcode]] #leetcode-medium #heaps [[Heaps Intro]]
 
 # [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 

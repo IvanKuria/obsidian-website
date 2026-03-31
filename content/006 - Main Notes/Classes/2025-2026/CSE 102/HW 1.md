@@ -1,3 +1,11 @@
+---
+title: "HW 1"
+type: homework
+class: CSE 102
+tags:
+  - cs
+  - algorithms
+---
 
 ## 1.2-2
 *n > 0*
@@ -135,4 +143,4 @@ $$
 = \bigcup_{i=1}^{k+1} \overline{A_i}
 $$
 
-Therefore, the statement holds for all $n \in \mathbb{N}$. 
+Therefore, the statement holds for all $n \in \mathbb{N}$.

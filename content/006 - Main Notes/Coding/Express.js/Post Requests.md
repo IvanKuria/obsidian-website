@@ -1,9 +1,15 @@
+---
+title: "Post Requests"
+type: tutorial
+technology: express
+date: 2025-04-16
+maturity: evergreen
+tags:
+  - tutorial
+  - web-dev
+---
+**Topic:** [[Coding MOC]]
 
-2025-04-16  07:43
-
-Status: #adult 
-
-Tags: #computer-science #expressjs 
 
 # Post Requests
 

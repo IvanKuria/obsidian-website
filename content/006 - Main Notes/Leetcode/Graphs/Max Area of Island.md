@@ -1,9 +1,18 @@
+---
+title: "Max Area of Island"
+type: problem
+difficulty: medium
+techniques:
+  - graphs
+date: 2025-09-17
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Graphs Intro]] | [[Leetcode MOC]]
 
-2025-09-17  13:19
-
-Status: #child
-
-Tags: #leetcode #leetcode-medium #graphs [[Graphs Intro]] [[Leetcode]]
 
 # [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
 

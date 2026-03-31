@@ -1,7 +1,11 @@
-Class: [[STAT 131]]
-Subject: #statistics #probability 
-Date: 2025-01-13
-Teacher: **Prof. Marcela**
+---
+title: "Non-Naive Probability"
+type: lecture
+class: STAT 131
+date: 2025-01-13
+tags:
+  - statistics
+---
 
 # Non-Naive Definition of Probability
 
@@ -16,5 +20,4 @@ Teacher: **Prof. Marcela**
 ## Properties of Probabilities
 1. $P(A^c)=1−P(A)$
 2. If $A \subseteq B$, then $P(A) \leq P(B)$
-3. $P(A \cup B)=P(A)+P(B)−P(A \cap B)$ 
-
+3. $P(A \cup B)=P(A)+P(B)−P(A \cap B)$

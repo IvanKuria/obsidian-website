@@ -1,9 +1,18 @@
+---
+title: "Is Subsequence"
+type: problem
+difficulty: easy
+techniques:
+  - strings
+date: 2025-08-11
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]]
 
-2025-08-11  14:09
-
-Status: #child
-
-Tags: #leetcode #leetcode-easy #strings
 
 # [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 

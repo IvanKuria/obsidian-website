@@ -1,9 +1,18 @@
+---
+title: "Trapping Rain Water"
+type: problem
+difficulty: hard
+techniques:
+  - two-pointers
+date: 2024-08-22
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]]
 
-2024-08-22  21:32
-
-Status: #child  
-
-Tags: [[Leetcode]] #leetcode #leetcode-hard #two-pointers 
 
 # [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 

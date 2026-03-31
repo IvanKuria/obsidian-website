@@ -1,7 +1,12 @@
-Class: [[CSE 130]]
-Subject: #computer-science #computer-systems 
-Date: 2025-05-01
-Teacher: **Dr. Veenstra 
+---
+title: "Lecture 09"
+type: lecture
+class: CSE 130
+date: 2025-05-01
+tags:
+  - cs
+  - operating-systems
+---
 
 # Virtualization
 
@@ -30,17 +35,14 @@ Teacher: **Dr. Veenstra
 #### Multiplexing
 - create multiple virtual objects from one underlying object
 - i.e. *Virtual Memory*
-![[Pasted image 20250501194303.png | 200]]
+![[cse130-virtualization-multiplexing.png | 200]]
 
 #### Aggregation
 - create one virtual object from multiple underlying objects
 - i.e. *Content Delivery Network*
-![[Pasted image 20250501194430.png | 200]]
+![[cse130-virtualization-aggregation.png | 200]]
 
 #### Emulation
 - create a new type of virtual object from underlying objects
 - i.e. *ram disks*
-![[Pasted image 20250501194659.png | 200]]
-
-
-
+![[cse130-virtualization-emulation.png | 200]]

@@ -1,7 +1,11 @@
-Class: [[CSE 113]]
-Subject: #computer-science #computer-architecture 
-Date: 2026-02-05
-Teacher: **Prof. Souza
+---
+title: "Mutexes"
+type: lecture
+class: CSE 113
+date: 2026-02-05
+tags:
+  - cs
+---
 
 # Mutexes
 

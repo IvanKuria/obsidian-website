@@ -1,9 +1,20 @@
+---
+title: "Longest Common Prefix"
+type: problem
+difficulty: easy
+techniques:
+  - arrays
+  - strings
+  - tries
+date: 2025-09-22
+maturity: evergreen
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]] | [[Complexity Cheat Sheet]]
 
-2025-09-22  00:21
-
-Status: #adult
-
-Tags: #leetcode #leetcode-easy #tries #google #strings #arrays [[Leetcode]]
 
 # [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 

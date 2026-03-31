@@ -1,7 +1,12 @@
-Class: [[CSE 120]]
-Subject: #computer-science #computer-architecture 
-Date: 2025-05-05
-Teacher: **Prof. Nath
+---
+title: "Lecture 04"
+type: lecture
+class: CSE 120
+date: 2025-05-05
+tags:
+  - cs
+  - computer-architecture
+---
 
 # RISC-V Cont
 
@@ -39,4 +44,3 @@ void foo()
 
 9080(bar):  ret; // PC jumps to value in x1 = 8004
 ```
-

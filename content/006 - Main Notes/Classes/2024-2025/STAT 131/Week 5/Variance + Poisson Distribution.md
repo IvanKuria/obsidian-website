@@ -1,7 +1,11 @@
-Class: [[STAT 131]]
-Subject: #probability 
-Date: 2025-02-11
-Teacher: **Prof. Marcela
+---
+title: "Variance + Poisson Distribution"
+type: lecture
+class: STAT 131
+date: 2025-02-11
+tags:
+  - statistics
+---
 
 # Variance
 - the [[variance]] of a random variable $X$ is

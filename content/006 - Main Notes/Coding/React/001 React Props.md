@@ -1,9 +1,13 @@
-
-2024-10-19  14:17
-
-Status: #child
-
-Tags: [[React]]
+---
+title: "React Props"
+type: tutorial
+technology: react
+date: 2024-10-19
+maturity: growing
+tags:
+  - tutorial
+  - web-dev
+---
 
 # Props
 
@@ -72,6 +76,6 @@ export default Student
 
 ## Result
 
-![[Pasted image 20241019142625.png]]
+![[react-props-component-output.png]]
 ## References
 [Bro Code](https://www.youtube.com/watch?v=CgkZ7MvWUAA)

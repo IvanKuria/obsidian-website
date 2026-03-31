@@ -1,3 +1,10 @@
+---
+title: "How I Turned Pinterest Into a Second Brain"
+type: video-idea
+tags:
+  - video-idea
+---
+
 ## Intro (0:00–0:30)
 
 Pinterest is where I save ideas when I don’t want to think about them yet.

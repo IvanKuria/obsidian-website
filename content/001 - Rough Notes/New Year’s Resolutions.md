@@ -1,3 +1,10 @@
+---
+title: "New Year’s Resolutions"
+type: reference
+draft: true
+tags:
+  - personal
+---
 
 Every January, we kinda do the same thing.  
 We tell ourselves we’ll change 

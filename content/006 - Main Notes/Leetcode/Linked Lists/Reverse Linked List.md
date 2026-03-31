@@ -1,9 +1,17 @@
+---
+title: "Reverse Linked List"
+type: problem
+techniques:
+  - linked-lists
+date: 2024-10-05
+maturity: evergreen
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Linked List Intro]] | [[Leetcode MOC]]
 
-2024-10-05  20:20
-
-Status: #adult
-
-Tags: [[Leetcode]] #linked-lists #computer-science 
 
 #  [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 

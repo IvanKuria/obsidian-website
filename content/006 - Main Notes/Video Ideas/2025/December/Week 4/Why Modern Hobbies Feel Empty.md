@@ -1,3 +1,9 @@
+---
+title: "Why Modern Hobbies Feel Empty"
+type: video-idea
+tags:
+  - video-idea
+---
 
 I don’t think hobbies feel empty because we chose the wrong ones.
 

@@ -1,7 +1,11 @@
-Class: [[STAT 131]]
-Subject: #probability 
-Date: 2025-02-11
-Teacher: **Prof. Marcela
+---
+title: "Continuous Random Variables"
+type: lecture
+class: STAT 131
+date: 2025-02-11
+tags:
+  - statistics
+---
 
 # Continuous Random Variables
 
@@ -18,18 +22,18 @@ $$f(x) = F^\prime(x)$$
 To go from *PDF* to *CDF*,
 $$F(x) = \int_{-\infty}^xf(t)dt$$
 ### Visual Representation
-![[Pasted image 20250211152100.png]]
+![[stat131-continuous-rv-01.png]]
 
 ### Problem 1:
 - Let be a continuous random variable with the following PDF
-![[Pasted image 20250211152658.png]]
+![[stat131-continuous-rv-02.png]]
 
 - where c is a positive constant
 	- Find $c$ 
 	- Find the CDF of $X$, $F_X(x)$
-	![[Pasted image 20250211153922.png]]
+	![[stat131-continuous-rv-03.png]]
 	- Find $P(1 < X < 3)$
-	![[Pasted image 20250211154042.png]]
+	![[stat131-continuous-rv-04.png]]
 
 
 ## Expectation
@@ -41,7 +45,7 @@ $$E(X) = \int_{-\infty}^{\infty}xf(x)dx$$
 $$E(g(x)) = \int_{-\infty}^{\infty}g(x)f(x)dx$$
 # Uniform Distribution
 - denoted by $U$∼$Unif(a,b)$
-![[Pasted image 20250211155037.png]]
+![[stat131-continuous-rv-05.png]]
 
 ## CDF
 $$F_X(x) = \frac{x}{b - a}$$
@@ -51,11 +55,11 @@ $$E(U) = \frac{b + a}{2}$$
 $$E(U^2) = \frac{(b - a)^2}{12}$$
 ## Problem 1
 - Let X be a continuous random variable with [[PDF]]
-![[Pasted image 20250211162827.png]]
+![[stat131-continuous-rv-06.png]]
 - show that this is a valid PDF
-![[Pasted image 20250211163203.png]]
+![[stat131-continuous-rv-07.png]]
 - Find the CDF
-![[Pasted image 20250211163229.png]]
+![[stat131-continuous-rv-08.png]]
 - Find the mean and variance of $X$
-![[Pasted image 20250211163243.png]]
-![[Pasted image 20250211171011.png]]
+![[stat131-continuous-rv-09.png]]
+![[stat131-continuous-rv-10.png]]

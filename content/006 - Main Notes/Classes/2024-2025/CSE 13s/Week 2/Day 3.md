@@ -1,8 +1,11 @@
-
-Class: [[CSE 13s]]
-Subject: #computer-science 
-Date: 2024-10-11
-Teacher: *Dr. Veenstra*
+---
+title: "Day 3"
+type: lecture
+class: CSE 13s
+date: 2024-10-11
+tags:
+  - cs
+---
 
 # Functions
 

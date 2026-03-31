@@ -1,7 +1,12 @@
-Class: [[CSE 130]]
-Subject: #computer-science #computer-systems 
-Date: 2025-05-01
-Teacher: **Dr. Veenstra 
+---
+title: "Lecture 08"
+type: lecture
+class: CSE 130
+date: 2025-05-01
+tags:
+  - cs
+  - operating-systems
+---
 
 # Client Server Model
 
@@ -13,7 +18,7 @@ Teacher: **Dr. Veenstra
 	- i.e. *int32_t* vs *int64_t*
 - endianness
 - pointers(need swizzling/unswizzling)
-![[Pasted image 20250501173525.png]]
+![[cse130-marshaling-concerns.png]]
 
 ## Buffered Communication & Intermediaries
 

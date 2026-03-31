@@ -1,9 +1,22 @@
+---
+title: "Fruit Into Baskets"
+type: problem
+difficulty: medium
+techniques:
+  - two-pointers
+  - arrays
+  - hash-maps
+  - strings
+  - sliding-window
+date: 2025-09-23
+maturity: evergreen
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]]
 
-2025-09-23  11:20
-
-Status: #adult 
-
-Tags: #leetcode #leetcode-medium #strings #arrays #hash-maps #google #two-pointers #sliding-window  [[Leetcode]]
 
 # [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
 

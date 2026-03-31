@@ -1,12 +1,12 @@
+---
+title: "{{title}}"
+type: 
+date: {{date}}
+maturity: seed
+tags: []
+---
 
-{{date}}  {{time}}
-
-Status:
-
-Tags: 
-
-# Title
-
+# {{title}}
 
 
 

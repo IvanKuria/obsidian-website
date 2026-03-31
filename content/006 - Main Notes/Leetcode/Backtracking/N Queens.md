@@ -1,9 +1,16 @@
-
-2025-09-16  21:14
-
-Status: #child
-
-Tags: #leetcode #leetcode-hard #backtrack [[Leetcode]] [[Backtracking Intro]]
+---
+title: "N Queens"
+type: problem
+difficulty: hard
+techniques:
+  - backtrack
+date: 2025-09-16
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
 
 # [N-Queens](https://leetcode.com/problems/n-queens/)
 

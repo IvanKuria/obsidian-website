@@ -1,9 +1,18 @@
+---
+title: "Container with Most Water"
+type: problem
+difficulty: medium
+techniques:
+  - two-pointers
+date: 2024-08-22
+maturity: seed
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]]
 
-2024-08-22  15:32
-
-Status: #baby 
-
-Tags:  [[Leetcode]] #leetcode #two-pointers #leetcode-medium [[Two Sum]]
 
 # Container with Most Water
 

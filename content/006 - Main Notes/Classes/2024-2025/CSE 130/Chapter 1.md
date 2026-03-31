@@ -1,7 +1,12 @@
-Class: [[CSE 130]]
-Subject: #computer-science #computer-systems 
-Date: 2025-04-03
-Teacher: **Dr. Veenstra
+---
+title: "Chapter 1"
+type: lecture
+class: CSE 130
+date: 2025-04-03
+tags:
+  - cs
+  - operating-systems
+---
 
 # Chapter 1
 
@@ -37,9 +42,9 @@ Teacher: **Dr. Veenstra
 #### 1. Interactions of requirements
 - A general purpose tool that can do $X$ and other things is more complex than a special purpose tool that can only do $X$
 - general purpose tool
-![[Pasted image 20250403103739.png | 400]]
+![[cse130-general-purpose-tool.png | 400]]
 - special purpose tool
-![[Pasted image 20250403103824.png | 400]]
+![[cse130-special-purpose-tool.png | 400]]
 
 #### 2. Increasing efficiency, utilization, or other measure of "goodness"
 - i.e. car engines

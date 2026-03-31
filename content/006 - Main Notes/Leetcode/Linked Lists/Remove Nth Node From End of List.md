@@ -1,9 +1,18 @@
+---
+title: "Remove Nth Node From End of List"
+type: problem
+techniques:
+  - two-pointers
+  - linked-lists
+date: 2024-10-09
+maturity: evergreen
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Linked List Intro]] | [[Leetcode MOC]]
 
-2024-10-09  21:02
-
-Status:  #adult
-
-Tags: [[Leetcode]] #two-pointers #linked-lists #computer-science 
 
 # [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 

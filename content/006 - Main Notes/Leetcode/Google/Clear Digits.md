@@ -1,9 +1,17 @@
-
-2025-09-22  17:10
-
-Status: #adult
-
-Tags: #leetcode #leetcode-easy #google #strings #arrays [[Removing Stars From a String]] [[Leetcode]]
+---
+title: "Clear Digits"
+type: problem
+difficulty: easy
+techniques:
+  - arrays
+  - strings
+date: 2025-09-22
+maturity: evergreen
+tags:
+  - leetcode
+  - cs
+  - problem
+---
 
 # [Clear Digits](https://leetcode.com/problems/clear-digits/)
 

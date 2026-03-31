@@ -1,9 +1,18 @@
+---
+title: "Daily Temperatures"
+type: problem
+difficulty: medium
+techniques:
+  - stack
+date: 2024-08-26
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]]
 
-2024-08-26  17:18
-
-Status: #child
-
-Tags:  [[Leetcode]] #stack #leetcode #leetcode-medium [[Daily Temperatures]] [[Min Stack]] [[Valid Parentheses]]
 
 # [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 

@@ -1,6 +1,10 @@
-Class: [[]]
-Subject: #
-Date: 2024-10-25
-Teacher: ***Dr. Veenstr**a*
+---
+title: "Day 3"
+type: lecture
+class: CSE 13s
+date: 2024-10-25
+tags:
+  - cs
+---
 
 # {{Topic}}

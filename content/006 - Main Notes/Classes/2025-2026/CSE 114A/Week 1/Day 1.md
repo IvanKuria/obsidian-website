@@ -1,7 +1,11 @@
-Class: [[CSE 114A]]
-Subject: #computer-science 
-Date: 2026-01-05
-Teacher: **Prof. Miller
+---
+title: "Day 1"
+type: lecture
+class: CSE 114A
+date: 2026-01-05
+tags:
+  - cs
+  - programming-languages
+---
 
 # Intro
-

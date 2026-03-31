@@ -1,9 +1,18 @@
+---
+title: "Kth Smallest Element in a BST"
+type: problem
+difficulty: medium
+techniques:
+  - trees
+date: 2025-01-22
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Binary Trees]] | [[Leetcode MOC]]
 
-2025-01-22  20:07
-
-Status: #child 
-
-Tags: #leetcode #leetcode-medium #trees [[Leetcode]]
 
 # [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 

@@ -1,9 +1,16 @@
-
-2025-09-11  17:32
-
-Status: #child
-
-Tags: #leetcode #leetcode-medium #backtrack [[Subsets]] #computer-science 
+---
+title: "Combination Sum"
+type: problem
+difficulty: medium
+techniques:
+  - backtrack
+date: 2025-09-11
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
 
 # [Combination Sum](https://leetcode.com/problems/combination-sum/)
 

@@ -1,3 +1,11 @@
+---
+title: "About My Professor Privacy"
+type: reference
+draft: true
+tags:
+  - project
+---
+
 # Privacy Policy for About My Professor
 
 *Last updated: November 30, 2025*

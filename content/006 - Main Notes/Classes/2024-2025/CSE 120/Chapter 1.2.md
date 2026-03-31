@@ -1,7 +1,12 @@
-Class: [[CSE 120]]
-Subject: #computer-science #abstraction
-Date: 2025-04-02
-Teacher: **Prof. Nath
+---
+title: "Chapter 1.2"
+type: lecture
+class: CSE 120
+date: 2025-04-02
+tags:
+  - cs
+  - computer-architecture
+---
 
 # Eight Great Ideas in Computer Architecture
 
@@ -24,4 +29,4 @@ Teacher: **Prof. Nath
 - *analogy* - "For example, before fire engines, a “bucket brigade” would respond to a fire, which many cowboy movies show in response to a dastardly act by the villain. The townsfolk form a human chain to carry a water source to fire, as they could much more quickly move buckets up the chain instead of individuals running back and forth."(p.g 56)
 
 ## Performance via Prediction
-- 
+-

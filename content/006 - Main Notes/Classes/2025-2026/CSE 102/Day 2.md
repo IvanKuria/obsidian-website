@@ -1,7 +1,12 @@
-Class: [[CSE 102]]
-Subject: #computer-science 
-Date: 2026-01-07
-Teacher: **Prof. Bailey
+---
+title: "Day 2"
+type: lecture
+class: CSE 102
+date: 2026-01-07
+tags:
+  - cs
+  - algorithms
+---
 
 #  Sorting
 

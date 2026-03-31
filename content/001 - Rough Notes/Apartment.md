@@ -1,3 +1,11 @@
+---
+title: "Apartment"
+type: reference
+draft: true
+tags:
+  - personal
+---
+
 - [ ] desk
 - [ ] laptops
 	- [ ] mac

@@ -1,7 +1,11 @@
-Class: [[CSE 113]]
-Subject: #computer-science 
-Date: 2026-01-14
-Teacher: **Prof. Souza
+---
+title: "Day 3"
+type: lecture
+class: CSE 113
+date: 2026-01-14
+tags:
+  - cs
+---
 
 # Topic
 
@@ -11,7 +15,7 @@ Teacher: **Prof. Souza
 	- 1 ISA instruction per cycle
 	- 3 Ghz means 3B cycles per second
 	- 1 ISA instruction takes $.33$ ns
-![[Pasted image 20260114130233.png | 300]]
+![[cse113-core-execution-model.png | 300]]
 
 ## Concurrency
 *q*: what happens when multiple programs want to share the same core?
@@ -21,9 +25,8 @@ Teacher: **Prof. Souza
 ### Parallelism
 - threads can execute simultaneously if there are enough resources
 - this is also called concurrency but when they execute at the same time, it's called [[parallelism]] 
-![[Pasted image 20260114130856.png | 300]]
+![[cse113-multicore-parallelism.png | 300]]
 
 ## Cores
 
-![[Pasted image 20260114131827.png | 400]]
-
+![[cse113-core-architecture-diagram.png | 400]]

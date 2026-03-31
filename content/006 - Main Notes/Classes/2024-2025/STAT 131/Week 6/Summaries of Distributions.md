@@ -1,7 +1,11 @@
-Class: [[STAT 131]]
-Subject: #probability 
-Date: 2025-02-24
-Teacher: **Prof. Marcela
+---
+title: "Summaries of Distributions"
+type: lecture
+class: STAT 131
+date: 2025-02-24
+tags:
+  - statistics
+---
 
 # Summaries of Distributions
 ## Median
@@ -18,6 +22,4 @@ Teacher: **Prof. Marcela
 
 ## Skewness
 -  the skewness of an r.v. with mean $\mu$ and variance $\sigma^2$ is the third standardized moment of $X$: Skew(X) = $E((\frac{(X- \mu)}{\sigma}) ^3)$
-![[Pasted image 20250224105328.png]]
-
-
+![[stat131-skewness-distributions.png]]

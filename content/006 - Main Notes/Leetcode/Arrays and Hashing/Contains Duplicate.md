@@ -1,9 +1,18 @@
+---
+title: "Contains Duplicate"
+type: problem
+difficulty: easy
+techniques:
+  - arrays
+date: 2024-10-11
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]]
 
-2024-10-11  21:26
-
-Status: #child 
-
-Tags: [[Leetcode]] #arrays 
 
 # [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 

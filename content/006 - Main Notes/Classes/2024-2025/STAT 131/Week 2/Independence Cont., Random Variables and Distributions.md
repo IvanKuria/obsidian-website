@@ -1,7 +1,11 @@
-Class: [[STAT 131]]
-Subject: #probability 
-Date: 2025-01-21
-Teacher: **Prof. Marcela**
+---
+title: "Independence Cont., Random Variables and Distributions"
+type: lecture
+class: STAT 131
+date: 2025-01-21
+tags:
+  - statistics
+---
 
 # Independence Cont.
 

@@ -1,9 +1,19 @@
+---
+title: "Top K Frequent Elements"
+type: problem
+difficulty: medium
+techniques:
+  - arrays
+  - hash-maps
+date: 2024-10-13
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]]
 
-2024-10-13  20:40
-
-Status: #child 
-
-Tags: [[Leetcode]] #leetcode-medium #leetcode #hash-maps #arrays 
 
 # [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 

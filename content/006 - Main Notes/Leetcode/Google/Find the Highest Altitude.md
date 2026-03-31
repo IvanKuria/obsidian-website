@@ -1,9 +1,18 @@
+---
+title: "Find the Highest Altitude"
+type: problem
+difficulty: easy
+techniques:
+  - strings
+date: 2025-09-22
+maturity: evergreen
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]]
 
-2025-09-22  22:13
-
-Status: #adult
-
-Tags: #leetcode #leetcode-easy #google #strings  [[Leetcode]]
 
 # [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
 

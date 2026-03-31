@@ -1,9 +1,18 @@
+---
+title: "Koko Eating Bananas"
+type: problem
+difficulty: medium
+techniques:
+  - two-pointers
+date: 2024-10-07
+maturity: seed
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]]
 
-2024-10-07  17:23
-
-Status:
-
-Tags: [[Leetcode]] [[Binary Search]] #two-pointers #leetcode-medium 
 
 # [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 

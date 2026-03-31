@@ -1,9 +1,18 @@
+---
+title: "Valid Parentheses"
+type: problem
+difficulty: easy
+techniques:
+  - stack
+date: 2024-08-23
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]]
 
-2024-08-23  21:06
-
-Status: #child
-
-Tags: [[Leetcode]] #stack #leetcode #leetcode-easy 
 
 # [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 

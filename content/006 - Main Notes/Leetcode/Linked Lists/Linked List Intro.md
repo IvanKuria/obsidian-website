@@ -1,9 +1,15 @@
+---
+title: "Linked List Intro"
+type: concept
+date: 2024-09-30
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Linked List Intro]] | [[Leetcode MOC]]
 
-2024-09-30  17:56
-
-Status: #child 
-
-Tags: [[Leetcode]] #leetcode #computer-science 
 
 # Linked Lists
 - they're a data structure in computer science similar to arrays.

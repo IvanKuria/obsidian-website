@@ -1,9 +1,15 @@
+---
+title: "Valid Anagram"
+type: problem
+date: 2024-10-11
+maturity: seed
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]]
 
-2024-10-11  21:30
-
-Status:
-
-Tags: [[Leetcode]]
 
 # [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 

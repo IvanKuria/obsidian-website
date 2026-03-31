@@ -1,9 +1,17 @@
-
-2025-09-22  00:41
-
-Status: #adult
-
-Tags: #leetcode #leetcode-easy #google #strings #bit-manipulation [[Leetcode]]
+---
+title: "Single Number"
+type: problem
+difficulty: easy
+techniques:
+  - strings
+  - bit-manipulation
+date: 2025-09-22
+maturity: evergreen
+tags:
+  - leetcode
+  - cs
+  - problem
+---
 
 # [Single Number](https://leetcode.com/problems/single-number/)
 
@@ -38,7 +46,7 @@ class Solution(object):
 4. This is because we aren't actually using the base 10 representation of the numbers, but rather their binary representation
 5. We'll set a = 0, iterate through nums and call xor on a and num
 6. Return a
-![[Pasted image 20250922004849.png | 400]]
+![[leetcode-single-number-xor-explanation.png | 400]]
 ## References
 
 [Greg Hogg](https://leetcode.com/problems/single-number/submissions/1778842259/?envType=company&envId=google&favoriteSlug=google-thirty-days)

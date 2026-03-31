@@ -1,7 +1,12 @@
-Class: [[CSE 120]]
-Subject: #computer-science #computer-architecture 
-Date: 2025-04-27
-Teacher: **Prof. Nath
+---
+title: "Lecture 03"
+type: lecture
+class: CSE 120
+date: 2025-04-27
+tags:
+  - cs
+  - computer-architecture
+---
 
 # RISC-V Cont
 
@@ -190,6 +195,3 @@ test:
 	blt t0, a1, loop  // if (i < n) goto loop
 
 ```
-
-
-

@@ -1,4 +1,11 @@
-![[Pasted image 20251228220710.png | 500]]
+---
+title: "Will Durant"
+type: video-idea
+tags:
+  - video-idea
+---
+
+![[will-durant-quote.png | 500]]
 
 # *“We are what we repeatedly do. Excellence, then, is not an act, but a habit.”*
 

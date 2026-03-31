@@ -1,7 +1,15 @@
-Class: [[Leetcode]]
-Subject: #computer-science #heaps #leetcode 
-Date: 2025-08-15
-Teacher: **Gregg Hogg
+---
+title: "Heaps Intro"
+type: concept
+techniques:
+  - heaps
+date: 2025-08-15
+maturity: seed
+tags:
+  - leetcode
+  - cs
+  - problem
+---
 
 # Heaps/Priority Queues
 
@@ -23,13 +31,13 @@ Teacher: **Gregg Hogg
 - this initializes the heap. It's a custom python data structure
 #### Min Heap: Example
 
-![[Pasted image 20250909165223.png | 300]]
+![[leetcode-heaps-binary-tree-before-heapify.png | 300]]
 
 1. This is currently a binary tree
 2. We'll call *heapify* on it to turn it into a min heap
 	1. This will *sift down* the tree. Essentially it will look at the right most, non-leaf node(2) and check if it's left or right are smaller. If it is, it will swap with the 2 and so on.
 3. The final min heap will look something like this:
-	![[Pasted image 20250909165622.png | 300]]
+	![[leetcode-heaps-min-heap-after-heapify.png | 300]]
 
 	**Time Complexity** : $O(n)$ 
 	**Space Complexity** : $O(1)$ 

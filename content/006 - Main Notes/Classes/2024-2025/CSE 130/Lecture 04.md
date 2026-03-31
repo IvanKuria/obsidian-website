@@ -1,7 +1,12 @@
-Class: [[CSE 130]]
-Subject: #computer-science #computer-systems 
-Date: 2025-04-16
-Teacher: **Dr. Veenstra
+---
+title: "Lecture 04"
+type: lecture
+class: CSE 130
+date: 2025-04-16
+tags:
+  - cs
+  - operating-systems
+---
 
 # Fundamental Abstractions in Computer Systems
 
@@ -26,14 +31,14 @@ Teacher: **Dr. Veenstra
 5. HDD's
 6. Tape Storage
 
-![[Pasted image 20250416101405.png | 400]]
+![[cse130-memory-hierarchy.png | 400]]
 
 ## Memory Properties
 ### Volatility
 - Does the memory need power to be applied in order to remember?
 - *The volatility/non-volatility split happens between DRAM and SSD's*
 
-![[Pasted image 20250416101812.png | 400]]
+![[cse130-memory-volatility-split.png | 400]]
 
 - essentially the ones above the line require some sort of voltage/power source to sustain memory
 
@@ -45,7 +50,7 @@ Teacher: **Dr. Veenstra
 - how expensive($/byte) is it?
 - *more expensive as we move up in the hierarchy*
 
-![[Pasted image 20250416102159.png | 400]]
+![[cse130-memory-cost-abundance.png | 400]]
 
 ### Performance
 - [[bandwidth]]: how many units of memory can we get per unit of time?
@@ -60,7 +65,7 @@ Teacher: **Dr. Veenstra
 ##### Latency
 - Lamport "Space-Time Diagrams"
 
-![[Pasted image 20250416102906.png]]
+![[cse130-lamport-space-time-diagram.png]]
 
 *which is better; low read latency or low write latency?*
 *answer*: low read latency because we can make writes asynchronous!
@@ -89,4 +94,3 @@ Teacher: **Dr. Veenstra
 #### RAM
 - rarely fail
 - most systems ignore the failures since fixing them would be expensive!
-      

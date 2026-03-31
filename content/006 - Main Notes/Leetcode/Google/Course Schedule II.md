@@ -1,9 +1,16 @@
-
-2025-09-18  17:06
-
-Status: #adult
-
-Tags: #leetcode #leetcode-medium #graphs [[Graphs Intro]] [[Course Schedule]] #computer-science #google 
+---
+title: "Course Schedule II"
+type: problem
+difficulty: medium
+techniques:
+  - graphs
+date: 2025-09-18
+maturity: evergreen
+tags:
+  - leetcode
+  - cs
+  - problem
+---
 
 # [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 

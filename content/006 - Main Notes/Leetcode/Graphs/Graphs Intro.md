@@ -1,12 +1,19 @@
+---
+title: "Graphs Intro"
+type: concept
+techniques:
+  - graphs
+date: 2025-09-17
+maturity: evergreen
+tags:
+  - leetcode
+  - cs
+  - problem
+---
 
-2025-09-17  10:22
-
-Status: #adult 
-
-Tags: #leetcode #computer-science #graphs
 # Graphs
 
-![[Pasted image 20250917102354.png]]
+![[leetcode-graphs-directed-graph-example.png]]
 
 ### Array of Edges (Directed) [Start, End]
 
@@ -39,7 +46,7 @@ for u, v in A:
 	D[u].append(v)
 ```
 
-![[Pasted image 20250917103012.png]]
+![[leetcode-graphs-adjacency-list-representation.png]]
 
 ### DFS with Recursion
 

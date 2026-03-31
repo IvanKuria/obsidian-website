@@ -1,3 +1,12 @@
+---
+title: "Slugmeter"
+type: project
+tags:
+  - project
+---
+
+**Related:** [[Projects MOC]]
+
 # SlugMeter -- Newspaper Interview Talking Points
 
   

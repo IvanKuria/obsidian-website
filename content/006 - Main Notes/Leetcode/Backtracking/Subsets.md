@@ -1,9 +1,18 @@
+---
+title: "Subsets"
+type: problem
+difficulty: medium
+techniques:
+  - backtrack
+date: 2025-09-11
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Backtracking Intro]] | [[Leetcode MOC]]
 
-2025-09-11  12:44
-
-Status: #child
-
-Tags: #leetcode #leetcode-medium [[Leetcode]] #backtrack 
 
 # [Subsets](https://leetcode.com/problems/subsets/)
 

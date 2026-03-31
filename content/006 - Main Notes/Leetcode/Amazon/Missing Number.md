@@ -1,9 +1,19 @@
+---
+title: "Missing Number"
+type: problem
+difficulty: easy
+techniques:
+  - arrays
+  - sets
+date: 2024-12-20
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]]
 
-2024-12-20  17:22
-
-Status: #child #leetcode #leetcode-easy 
-
-Tags: #arrays #sets [[Leetcode]]
 
 # Missing Number
 

@@ -1,9 +1,16 @@
-
-2025-09-16  10:01
-
-Status: #adult
-
-Tags: #leetcode #leetcode-medium #backtrack  [[Leetcode]] [[Backtracking Intro]] [[Subsets]]
+---
+title: "Subsets II"
+type: problem
+difficulty: medium
+techniques:
+  - backtrack
+date: 2025-09-16
+maturity: evergreen
+tags:
+  - leetcode
+  - cs
+  - problem
+---
 
 # [Subsets II](https://leetcode.com/problems/subsets-ii/)
 

@@ -1,9 +1,15 @@
+---
+title: "Initialization"
+type: tutorial
+technology: express
+date: 2025-03-26
+maturity: evergreen
+tags:
+  - tutorial
+  - web-dev
+---
+**Topic:** [[Coding MOC]]
 
-2025-03-26  14:38
-
-Status: #adult
-
-Tags: #backend #computer-science #expressjs
 
 # Setting up the Server
 

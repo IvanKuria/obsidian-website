@@ -1,9 +1,18 @@
+---
+title: "Binary Trees"
+type: concept
+techniques:
+  - trees
+  - binary-trees
+date: 2024-10-14
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Binary Trees]] | [[Leetcode MOC]]
 
-2024-10-14  21:20
-
-Status: #child 
-
-Tags: [[Leetcode]] #trees #binary-trees
 
 # Binary Trees and Binary Search Trees
 

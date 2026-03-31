@@ -1,7 +1,11 @@
-Class: [[STAT 131]]
-Subject: #probability 
-Date: 2025-01-29
-Teacher: **Prof. Marcela**
+---
+title: "Other Distributions"
+type: lecture
+class: STAT 131
+date: 2025-01-29
+tags:
+  - statistics
+---
 
 # Hypergeometric Distribution
 
@@ -34,7 +38,7 @@ $$P(X = 8) = \frac{1}{100}$$
 
 ### Example
 - Given the following:
-	![[Pasted image 20250129181052.png]]
+	![[stat131-pmf-cdf-example.png]]
 a)  What is the support of $x$?
 	{ 0, 1, 2}
 b) Find $P(x \geq 1.5)$

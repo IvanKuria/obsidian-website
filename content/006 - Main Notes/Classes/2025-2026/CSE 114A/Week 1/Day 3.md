@@ -1,7 +1,12 @@
-Class: [[CSE 114A]]
-Subject: #computer-science 
-Date: 2026-01-12
-Teacher: **Prof. Miller
+---
+title: "Day 3"
+type: lecture
+class: CSE 114A
+date: 2026-01-12
+tags:
+  - cs
+  - programming-languages
+---
 
 # Lambda Calculus
 

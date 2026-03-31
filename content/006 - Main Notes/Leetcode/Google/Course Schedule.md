@@ -1,9 +1,16 @@
-
-2025-09-18  14:05
-
-Status: #child
-
-Tags: #leetcode #leetcode-medium #graphs #google [[Leetcode]] [[Graphs Intro]] #computer-science
+---
+title: "Course Schedule"
+type: problem
+difficulty: medium
+techniques:
+  - graphs
+date: 2025-09-18
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
 
 # [Course Schedule](https://leetcode.com/problems/course-schedule/)
 
@@ -58,7 +65,7 @@ class Solution(object):
     - **UNVISITED (0)** → we haven’t explored this node yet
     - **VISITING (1)** → this node is in the current DFS path (our stack/recursion chain)
     - **VISITED (2)** → this node and all of its neighbors have already been fully processed
-    - ![[Pasted image 20250918140807.png | 400]]
+    - ![[leetcode-course-schedule-cycle-detection.png | 400]]
 - The key intuition: if during DFS we ever hit a node that is already in the **VISITING** state (1), we’ve circled back into our path → meaning there is a cycle → return **False** immediately.
 - Otherwise, once we finish exploring all neighbors of a node, we can safely mark it as **VISITED (2)**. That way, if we see it again later, we know it has no cycles downstream.
 - We initialize all nodes as **UNVISITED** in a separate list `states`. DFS updates this list as it goes.

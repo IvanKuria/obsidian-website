@@ -1,9 +1,15 @@
+---
+title: "Query Params"
+type: tutorial
+technology: express
+date: 2025-04-16
+maturity: evergreen
+tags:
+  - tutorial
+  - web-dev
+---
+**Topic:** [[Coding MOC]]
 
-2025-04-16  07:19
-
-Status: #adult
-
-Tags: #computer-science #expressjs 
 
 # Query Params
 

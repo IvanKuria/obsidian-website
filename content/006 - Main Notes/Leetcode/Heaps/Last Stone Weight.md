@@ -1,10 +1,18 @@
+---
+title: "Last Stone Weight"
+type: problem
+difficulty: easy
+techniques:
+  - heaps
+date: 2025-09-09
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Heaps Intro]] | [[Leetcode MOC]]
 
-
-2025-09-09  20:47
-
-Status: #child
-
-Tags: #leetcode #leetcode-easy #heaps [[Heaps Intro]] [[Leetcode]]
 
 # [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
 

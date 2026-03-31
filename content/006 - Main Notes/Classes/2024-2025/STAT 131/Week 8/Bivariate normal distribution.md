@@ -1,7 +1,11 @@
-Class: [[STAT 131]]
-Subject: #probability 
-Date: 2025-03-16
-Teacher: **Prof. Marcela
+---
+title: "Bivariate normal distribution"
+type: lecture
+class: STAT 131
+date: 2025-03-16
+tags:
+  - statistics
+---
 
 # Correlation
 
@@ -47,7 +51,7 @@ $$p(X, Y) = -1/2$$
 # Bivariate Normal
 
 ## Definition
-![[Pasted image 20250316134722.png]]
+![[stat131-bivariate-normal-definition.png]]
 
 ## Example
 1. Let X and Y be jointly (bivariate) normal, with Var(X) = Var(Y). Show that the two random variables X + Y and X - Y and are independent.
@@ -56,11 +60,10 @@ $$p(X, Y) = -1/2$$
 $$Cov(x + y, x - y) = Cov(x, x) - Cov(x , y) + Cov(y, x) - Cov(y, y)$$
 $$ = Var(x) - Var(y) = 0$$
 
-2. ![[Pasted image 20250316135335.png]]
+2. ![[stat131-bivariate-normal-problem-02.png]]
 
 $i) P(X + Y > 0)$
-![[Pasted image 20250316135415.png|600]]
+![[stat131-bivariate-normal-solution-part-i.png|600]]
 
 $ii)$ Find a
-![[Pasted image 20250316135607.png]]
-
+![[stat131-bivariate-normal-solution-part-ii.png]]

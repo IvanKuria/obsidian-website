@@ -1,9 +1,15 @@
+---
+title: "Route Params"
+type: tutorial
+technology: express
+date: 2025-03-26
+maturity: evergreen
+tags:
+  - tutorial
+  - web-dev
+---
+**Topic:** [[Coding MOC]]
 
-2025-03-26  15:01
-
-Status: #adult
-
-Tags: #computer-science #backend #expressjs 
 
 # Route Params
 

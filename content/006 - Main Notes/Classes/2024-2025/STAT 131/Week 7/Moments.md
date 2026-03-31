@@ -1,7 +1,11 @@
-Class: [[STAT 131]]
-Subject: #probability 
-Date: 2025-02-24
-Teacher: **Prof. Marcela
+---
+title: "Moments"
+type: lecture
+class: STAT 131
+date: 2025-02-24
+tags:
+  - statistics
+---
 
 # Moment Generating Functions(MGF)
 
@@ -22,4 +26,4 @@ $$M_{X+Y}(t) = M_X(t)M_Y(t)$$
 
 ## MGF of location-scale transformation.
 -  if $X$ has MGF $M(t)$, then the MGF of $a + bX$ is:
-![[Pasted image 20250224114726.png]]
+![[stat131-mgf-location-scale-transformation.png]]

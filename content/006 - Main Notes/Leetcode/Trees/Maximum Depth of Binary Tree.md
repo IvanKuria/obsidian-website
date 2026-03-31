@@ -1,9 +1,18 @@
+---
+title: "Maximum Depth of Binary Tree"
+type: problem
+difficulty: easy
+techniques:
+  - trees
+date: 2025-01-19
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Binary Trees]] | [[Leetcode MOC]]
 
-2025-01-19  12:05
-
-Status: #child
-
-Tags:  #leetcode-easy #leetcode #trees [[Leetcode]]
 
 # [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 

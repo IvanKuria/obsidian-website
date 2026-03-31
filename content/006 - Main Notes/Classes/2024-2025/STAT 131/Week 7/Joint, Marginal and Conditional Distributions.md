@@ -1,7 +1,11 @@
-Class: [[STAT 131]]
-Subject: #probability 
-Date: 2025-02-24
-Teacher: **Prof. Marcela
+---
+title: "Joint, Marginal and Conditional Distributions"
+type: lecture
+class: STAT 131
+date: 2025-02-24
+tags:
+  - statistics
+---
 
 # Discrete
 ## Joint
@@ -25,14 +29,14 @@ $$P(X=x) = \sum P(X=x, Y=y)$$
 $$P(Y=y | X=x) = \frac{P(X=x|Y=y)}{P(X=x)}$$
 
 ## Example
-![[Pasted image 20250310133305.png]]
+![[stat131-joint-distributions-01.png]]
 
 a) $$P(X = 0, Y=0) + P(X = 0, Y=1) = 1/6 + 1/4 = 5/12$$
 b) 
 $$P(Y = 0) = 1/6 + 1/8 = 7/24$$
 $$P(Y = 1) = 1/4 + 1/6 = 5/12$$
 $$P(Y = 2) = 1/8 + 1/6 = 7/24$$
-![[Pasted image 20250310133837.png|400]]
+![[stat131-joint-distributions-02.png|400]]
 *If they don't sum up to 1, then you made a mistake somewhere!*
 
 c) $$P(Y = 1|X = 0) = \frac{P(Y=1,X=0)}{P(X=0)}$$
@@ -48,7 +52,7 @@ $$1/6 \neq 13/24*7/24$$
 
 ### Joint PDF
 - if X and Y are continuous, their joint PDF is the derivative of the joint CDF with respect to x and y:
-![[Pasted image 20250310135119.png|400]]
+![[stat131-joint-distributions-03.png|400]]
 
 #### Example
 $$P(X < 3, 1 < Y, 4) = \int_1^4\int_{-\infty}^3f_{X, Y}(x, y)dxdy$$
@@ -57,27 +61,26 @@ $$P(X < 3, 1 < Y, 4) = \int_1^4\int_{-\infty}^3f_{X, Y}(x, y)dxdy$$
 
 ### Marginal PDF
 - for continuous r.v.s X and Y with joint PDF fx,y, the marginal PDF of X is:
-![[Pasted image 20250310135702.png | 400]]
+![[stat131-joint-distributions-04.png | 400]]
 
 ## Conditional
 
 ### Conditional PDF
 - for continuous r.v.s X and Y with joint PDF fx,y, the marginal PDF of Y given X=x is:
-![[Pasted image 20250310135932.png|400]]
+![[stat131-joint-distributions-05.png|400]]
 
 ## Example
-![[Pasted image 20250310140019.png]]
+![[stat131-joint-distributions-06.png]]
 
-b) ![[Pasted image 20250310140357.png|600]]
+b) ![[stat131-joint-distributions-07.png|600]]
 $$c/10 = 1, c = 10$$
 
-c)![[Pasted image 20250310140826.png]]
+c)![[stat131-joint-distributions-08.png]]
 
- d) ![[Pasted image 20250310182754.png]]
+ d) ![[stat131-joint-distributions-09.png]]
 
 e) $$= \frac{P(Y\leq x/4, Y \leq x/2)}{P(Y \leq x/2)} = 4P(Y\leq x/4)$$
 *we ignore $Y \leq 2$ because* 
-![[Pasted image 20250310183519.png|400]]
+![[stat131-joint-distributions-10.png|400]]
 
-![[Pasted image 20250310183628.png|500]]
-
+![[stat131-joint-distributions-11.png|500]]

@@ -1,3 +1,9 @@
+---
+title: "young man built to fall"
+type: video-idea
+tags:
+  - video-idea
+---
 
 I keep ending up in the same place.
 

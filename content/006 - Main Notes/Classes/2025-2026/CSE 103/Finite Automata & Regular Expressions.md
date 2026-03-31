@@ -1,7 +1,12 @@
-Class: [[CSE 103]]
-Subject: #computer-science 
-Date: 2026-01-20
-Teacher: **Prof. 
+---
+title: "Finite Automata & Regular Expressions"
+type: lecture
+class: CSE 103
+date: 2026-01-20
+tags:
+  - cs
+  - programming-languages
+---
 
 # Finite Automata & Regular Expressions
 
@@ -16,10 +21,10 @@ Teacher: **Prof.
 - $F$: set of accepted states
 
 ### Example
-![[Pasted image 20260120145930.png | 300]]
+![[cse103-finite-automaton-example.png | 300]]
 
  #### Transition function
- ![[Pasted image 20260120150040.png | 300]]
+ ![[cse103-transition-function-table.png | 300]]
 
 ### Strings & Languages
 - a [[string]] is a finite sequence of symbols $\sum$
@@ -49,7 +54,7 @@ Let $M_1 = (Q_1, \sum, \delta_1, q_1, F_1)$ recognize $A_1$
 	$M_2 = (Q_2, \sum, \delta_2, q_2, F_2)$
 Construct $M = (Q, \sum, \delta, q, F)$
 M should accept input w if either $M_1$ or $M_2$ accept $w$.
-![[Pasted image 20260120192036.png | 400]]
+![[cse103-closure-union-proof-diagram.png | 400]]
 
 **Components of M**:
 $Q = Q_1 \times Q_2$: *the set of states of $M$ is just the possible states of $M_1$ and $M_2$*
@@ -59,6 +64,6 @@ $\delta((q, r), a) = (\delta_1(q_1, a_1), \delta_2(r, a))$: *the transition func
 $F = (F_1 \times Q_2) \cup (Q_1 \times F_2)$: *the final state of $M$ is the union of the 1. all possible states of the, final state of $M_1$ and any state from $M_2$. 2. all possible states of $M_1$ and the final state of $M_2$.* 
 
 **Q**: riddle me this:
-![[Pasted image 20260120193011.png | 300]]
+![[cse103-cartesian-product-states-quiz.png | 300]]
 
 - the answer is C: because it's all possible combinations of states from $M_1$ and $M_2$

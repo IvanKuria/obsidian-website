@@ -1,9 +1,16 @@
-
-2025-09-22  22:27
-
-Status: #adult
-
-Tags: #leetcode #leetcode-medium #dynamic-programming #google [[Leetcode]]
+---
+title: "House Robber"
+type: problem
+difficulty: medium
+techniques:
+  - dynamic-programming
+date: 2025-09-22
+maturity: evergreen
+tags:
+  - leetcode
+  - cs
+  - problem
+---
 
 # [House Robber](https://leetcode.com/problems/house-robber/)
 
@@ -37,7 +44,7 @@ class Solution(object):
 1. We have 2 base case:
 	1. if the length of the array is 1, just return the only element
 	2. If the length of the array is 2, return the max of the 2 elements
-2. To understand our next approach, analyze this photo![[Pasted image 20250922223341.png | 400]]
+2. To understand our next approach, analyze this photo![[leetcode-house-robber-dp-analysis.png | 400]]
 3. Let's look at the 3 index since we have accounted for the edge cases. If we choose to rob 10, we have to also add the money from 2 steps back because we can't rob adjacent houses = $10 + 5 = 15$. 
 4. Also we can not rob and just keep the 10. In this case robbing is better because $15 > 10$. 
 5. We repeat this until we reach the end

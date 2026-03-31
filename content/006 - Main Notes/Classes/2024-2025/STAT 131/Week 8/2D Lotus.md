@@ -1,7 +1,11 @@
-Class: [[STAT 131]]
-Subject: #probability 
-Date: 2025-03-10
-Teacher: **Prof. Marcela
+---
+title: "2D Lotus"
+type: lecture
+class: STAT 131
+date: 2025-03-10
+tags:
+  - statistics
+---
 
 # 2D Lotus
 
@@ -15,5 +19,4 @@ $$E(g(X, Y)) = \sum_x \sum_y g(x, y)P(X=x, Y=y)$$
 $$E(g(X, Y)) = \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} g(x, y)f_{X, Y}dxdy$$
 
 ### Example
-![[Pasted image 20250310184423.png|600]]
-
+![[stat131-2d-lotus-example.png|600]]

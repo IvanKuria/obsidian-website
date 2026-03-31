@@ -1,7 +1,12 @@
-Class: [[CSE 103]]
-Subject: #computer-science 
-Date: 2026-02-04
-Teacher: **Prof. 
+---
+title: "Pushdown Automata, Conversion of CFG to PDA and Reverse Conversion"
+type: lecture
+class: CSE 103
+date: 2026-02-04
+tags:
+  - cs
+  - programming-languages
+---
 
 # Pushdown Automata, Conversion of CFG to PDA and Reverse Conversion
 
@@ -18,12 +23,11 @@ For $u, v \in (V \cup \sum)$ write:
 
 
 ### Example
-![[Pasted image 20260204091120.png]]
+![[cse103-cfg-example.png]]
 
 ## Ambiguity
-![[Pasted image 20260204091552.png]]
+![[cse103-ambiguous-cfg-comparison.png]]
 - both $G_2$ and $G_3$ recognize the same language, i.e. $L(G_2) = L(G_3)$. 
 - However, $G_2$ is an ambiguous CFG and $G_3$ is ambiguous
 - This is what the parse tree for $G_3$ would look like:
-	- ![[Pasted image 20260204091748.png | 200]]
-
+	- ![[cse103-parse-tree-example.png | 200]]

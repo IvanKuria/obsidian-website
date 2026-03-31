@@ -1,9 +1,16 @@
-
-2025-09-10  12:09
-
-Status: #child 
-
-Tags: #leetcode #leetcode-medium [[Leetcode]] #heaps [[Heaps Intro]]
+---
+title: "Kth Largest Element in an Array"
+type: problem
+difficulty: medium
+techniques:
+  - heaps
+date: 2025-09-10
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
 
 # [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 

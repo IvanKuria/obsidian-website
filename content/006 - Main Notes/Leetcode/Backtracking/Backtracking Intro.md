@@ -1,9 +1,17 @@
+---
+title: "Backtracking Intro"
+type: concept
+techniques:
+  - backtrack
+date: 2025-09-15
+maturity: evergreen
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Backtracking Intro]] | [[Leetcode MOC]]
 
-2025-09-15  17:27
-
-Status: #adult 
-
-Tags: #computer-science #leetcode #backtrack 
 
 # Backtracking
 

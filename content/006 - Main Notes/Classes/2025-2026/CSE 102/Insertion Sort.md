@@ -1,7 +1,12 @@
-Class: [[]]
-Subject: #
-Date: 2026-01-25
-Teacher: **Prof. 
+---
+title: "Insertion Sort"
+type: lecture
+class: CSE 102
+date: 2026-01-25
+tags:
+  - cs
+  - algorithms
+---
 
 # Insertion Sort
 
@@ -23,7 +28,7 @@ def insertion_sort(a, n)
 ### Example
 1. let's say we're given the array, $\{5, 2, 4, 6, 1, 3\}$ 
 
-![[Pasted image 20260125114409.png]]
+![[cse102-insertion-sort-example.png]]
 
 ## Loop Invariants
 - elements in a[1: i - 1] are known as the [[loop invariant]] since these are always sorted. more formally:
@@ -42,8 +47,4 @@ def insertion_sort(a, n)
 ### Termination
 
 ## Runtime Calculations
-![[Pasted image 20260125145922.png]]
-
-
-
-
+![[cse102-insertion-sort-runtime.png]]

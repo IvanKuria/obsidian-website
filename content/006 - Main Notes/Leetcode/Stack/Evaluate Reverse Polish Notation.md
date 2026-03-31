@@ -1,9 +1,18 @@
+---
+title: "Evaluate Reverse Polish Notation"
+type: problem
+difficulty: medium
+techniques:
+  - stack
+date: 2024-08-26
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]]
 
-2024-08-26  17:01
-
-Status: #child 
-
-Tags: [[Leetcode]] #leetcode #leetcode-medium #stack [[Min Stack]] [[Valid Parentheses]]
 
 # [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 

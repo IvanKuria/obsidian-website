@@ -1,7 +1,12 @@
-Class: [[CSE 114A]]
-Subject: #computer-science 
-Date: 2026-01-12
-Teacher: **Prof. Miller
+---
+title: "Day 1"
+type: lecture
+class: CSE 114A
+date: 2026-01-12
+tags:
+  - cs
+  - programming-languages
+---
 
 # Lambda Calculus Cont.
 
@@ -27,7 +32,7 @@ i.e. $\lambda x \rightarrow \lambda y \rightarrow f x y$
 	- $FV(\lambda x \rightarrow e) = FV(e) - \{x\}$
 
 #### Example
-![[Pasted image 20260112221053.png]]
+![[cse114a-free-variables-example.png]]
 
 ### Closed
 - An expression $e$ is [[closed]] if $FV(e) = \{\}$ (i.e. it has no free variables)

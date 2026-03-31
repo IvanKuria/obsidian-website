@@ -1,7 +1,12 @@
-Class: [[CSE 114A]]
-Subject: #computer-science #haskell
-Date: 2026-01-28
-Teacher: **Prof. Miller
+---
+title: "Haskell"
+type: lecture
+class: CSE 114A
+date: 2026-01-28
+tags:
+  - cs
+  - programming-languages
+---
 
 # Functions, Types, let & where
 
@@ -66,5 +71,4 @@ in_range min max x =
 	
 in_range 0.5 1.5 1 -- Type error
 in_range 0 5 3 -- Correct
-``` 
-
+```

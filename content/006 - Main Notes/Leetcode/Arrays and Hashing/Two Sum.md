@@ -1,9 +1,17 @@
-
-2024-08-22  12:39
-
-Status: #baby
-
-Tags: [[Leetcode]] #two-pointers #leetcode #leetcode-easy 
+---
+title: "Two Sum"
+type: problem
+difficulty: easy
+techniques:
+  - two-pointers
+date: 2024-08-22
+maturity: seed
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]]
 
 
 # Two Sum

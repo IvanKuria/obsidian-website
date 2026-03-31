@@ -1,10 +1,15 @@
+---
+title: "Objects"
+type: tutorial
+technology: typescript
+date: 2025-09-04
+maturity: growing
+tags:
+  - tutorial
+  - web-dev
+---
+**Topic:** [[Coding MOC]]
 
-
-2025-09-04  18:14
-
-Status: #child 
-
-Tags: #typescript #computer-science 
 
 # Objects in Typescript
 

@@ -47,3 +47,13 @@ Computer Science student at **UC Santa Cruz** and aspiring **software engineer**
 
 - Studying [CSE 101M](https://catalog.ucsc.edu/en/current/general-catalog/courses/cse-computer-science-and-engineering/upper-division/cse-101m), [CSE 115A](https://courses.engineering.ucsc.edu/courses/cse115A), and [Math 115](https://catalog.ucsc.edu/en/2023-2024/general-catalog/courses/math-mathematics/upper-division/math-115)
 - Open to collaborations and internships. Say hi → <ikuria@ucsc.edu>
+
+---
+
+## Browse My Notes
+
+> [!tip] Knowledge Base
+> **[[Classes MOC|Classes]]** — Lecture notes from CSE 13s through CSE 115A, STAT 131, and more  
+> **[[Leetcode MOC|Leetcode]]** — 60+ problems organized by topic and difficulty  
+> **[[Coding MOC|Coding]]** — Tutorials and notes on React, Express, TypeScript, Rust  
+> **[[Projects MOC|Projects]]** — SlugMatch, Rate My Slugs, Slugmeter, and other builds

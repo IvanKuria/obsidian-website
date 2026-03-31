@@ -1,9 +1,18 @@
+---
+title: "Min Stack"
+type: problem
+difficulty: medium
+techniques:
+  - stack
+date: 2024-08-23
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]]
 
-2024-08-23  21:58
-
-Status: #child 
-
-Tags: [[Leetcode]] #stack #leetcode-medium 
 
 # Min Stack
 

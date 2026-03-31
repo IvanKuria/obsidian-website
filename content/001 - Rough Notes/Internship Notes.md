@@ -1,3 +1,11 @@
+---
+title: "Internship Notes"
+type: reference
+tags:
+  - career
+---
+
+**Related:** [[Leetcode MOC]] | [[Projects MOC]] | [[Complexity Cheat Sheet]]
 
 ## Leetcode
 - Checkout: 

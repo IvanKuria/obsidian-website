@@ -1,6 +1,11 @@
+---
+title: "SlugMatch Sprint Tickets (1 Month Timeline)"
+type: project
+tags:
+  - project
+---
 
-
-  
+**Related:** [[SlugMatch]] | [[Projects MOC]]
 
 ## Sprint 1 (Weeks 1-2): Foundation & Core Quiz Functionality
 

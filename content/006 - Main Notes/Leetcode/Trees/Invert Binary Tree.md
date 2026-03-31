@@ -1,9 +1,17 @@
-
-2025-01-06  13:28
-
-Status: #child
-
-Tags: #leetcode #leetcode-easy #trees #binary-trees #computer-science  [[Leetcode]]
+---
+title: "Invert Binary Tree"
+type: problem
+difficulty: easy
+techniques:
+  - trees
+  - binary-trees
+date: 2025-01-06
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
 
 # [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 
@@ -34,7 +42,7 @@ class Solution(object):
         return root
 ```
 
-![[Pasted image 20250106132952.png]]
+![[leetcode-invert-binary-tree-diagram.png]]
 ### Explanation
 1. If the root is None, return  
   

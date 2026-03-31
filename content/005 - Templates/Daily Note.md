@@ -1,3 +1,14 @@
+---
+title: "{{date}} {{day}}"
+type: daily
+---
+
+## Tasks
+
+```tasks
+not done
+due on or before {{date}}
+```
 
 ## Completed
 
@@ -5,4 +16,5 @@
 done on {{date}}
 ```
 
-## Created
+## Notes
+

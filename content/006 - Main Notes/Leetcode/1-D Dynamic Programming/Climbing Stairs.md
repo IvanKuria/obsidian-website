@@ -1,9 +1,18 @@
+---
+title: "Climbing Stairs"
+type: problem
+difficulty: easy
+techniques:
+  - dynamic-programming
+date: 2025-09-18
+maturity: evergreen
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]] | [[Complexity Cheat Sheet]]
 
-2025-09-18  21:36
-
-Status: #adult
-
-Tags: #leetcode #leetcode-easy #computer-science #dynamic-programming [[Leetcode]] 
 
 # [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 

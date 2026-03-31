@@ -1,9 +1,17 @@
+---
+title: "3Sum"
+type: problem
+techniques:
+  - two-pointers
+date: 2024-08-22
+maturity: seed
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]]
 
-2024-08-22  12:49
-
-Status: #baby 
-
-Tags: [[Leetcode]] [[Two Sum II - Input Array Is Sorted]] #two-pointers #leetcode 
 
 # 3Sum
 

@@ -1,9 +1,15 @@
+---
+title: "Pizza App"
+type: tutorial
+technology: typescript
+date: 2025-02-16
+maturity: growing
+tags:
+  - tutorial
+  - web-dev
+---
+**Topic:** [[Coding MOC]]
 
-2025-02-16  14:35
-
-Status: #child
-
-Tags: #typescript
 
 # Pizza App
 

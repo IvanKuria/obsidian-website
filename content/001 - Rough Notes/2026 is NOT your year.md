@@ -1,4 +1,9 @@
-
+---
+title: "2026 is NOT your year"
+type: video-idea
+tags:
+  - video-idea
+---
 
 Everyone keeps saying that   
 **“2026 is your year.”**

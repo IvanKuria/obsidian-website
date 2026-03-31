@@ -1,9 +1,18 @@
+---
+title: "Best Time to Buy and Sell Stock"
+type: problem
+difficulty: easy
+techniques:
+  - two-pointers
+date: 2024-09-09
+maturity: seed
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]]
 
-2024-09-09  22:25
-
-Status: 
-
-Tags: [[Leetcode]] #leetcode #leetcode-easy #two-pointers [[Two Sum]] 
 
 # [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 

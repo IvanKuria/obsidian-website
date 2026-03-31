@@ -1,6 +1,12 @@
-Class: [[]]
-Subject: #
-Date: {{date}}
-Teacher: **Prof. 
+---
+title: "{{title}}"
+type: lecture
+class: "[[]]"
+professor: 
+date: {{date}}
+tags:
+  - cs
+---
 
-# Topic
+# {{title}}
+

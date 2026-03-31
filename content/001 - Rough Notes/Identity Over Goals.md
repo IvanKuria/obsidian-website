@@ -1,3 +1,10 @@
+---
+title: "Identity Over Goals"
+type: video-idea
+tags:
+  - video-idea
+---
+
 Most people don’t fail their goals  
 because they’re lazy.
 

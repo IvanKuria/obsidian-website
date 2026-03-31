@@ -1,9 +1,18 @@
+---
+title: "Two Sum II - Input Array Is Sorted"
+type: problem
+difficulty: medium
+techniques:
+  - two-pointers
+date: 2024-08-22
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]]
 
-2024-08-22  13:00
-
-Status: #child
-
-Tags: [[Leetcode]] #leetcode #two-pointers #leetcode-medium [[Two Sum]]
 
 # Two Sum II
 

@@ -1,9 +1,18 @@
+---
+title: "Kth Largest Element in a Stream"
+type: problem
+difficulty: easy
+techniques:
+  - backtrack
+date: 2025-09-16
+maturity: evergreen
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Backtracking Intro]] | [[Leetcode MOC]]
 
-2025-09-16  09:29
-
-Status: #adult
-
-Tags: #leetcode #leetcode-easy #backtrack [[Backtracking Intro]]
 
 # [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 

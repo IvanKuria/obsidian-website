@@ -1,7 +1,11 @@
-Class: [[STAT 131]]
-Subject: #probability 
-Date: 2025-01-21
-Teacher: **Prof. Marcela**
+---
+title: "Conditional Probability, Independence of Events"
+type: lecture
+class: STAT 131
+date: 2025-01-21
+tags:
+  - statistics
+---
 
 # Conditional Probability
 - given $A$ and $B$ are events with $P(B) > 0$, the the [[conditional probability]] of $A$ given $B$, denoted by $P(A|B)$, is defined as:

@@ -1,3 +1,12 @@
+---
+title: "Oracle Prep"
+type: reference
+tags:
+  - career
+---
+
+**Related:** [[Oracle CSS]] | [[Leetcode MOC]] | [[Internship Notes]]
+
 - based off reddit posts [1](https://www.reddit.com/r/csMajors/comments/1q7ossi/oracle_swe_intern_interview_advice/), [2](https://www.reddit.com/r/csMajors/comments/1pojgwo/oracle_oci_swe_intern_firstround/), they tend to ask leetcode easy/mediums specifically in strings, stack, bst, and linked lists so that's what i need to really prep for in the next week.(maybe converting decimal to binary)
 - brush up on OOP(inheritance, encapsulation, polymorphism, etc...) and what that looks like in java and python
 

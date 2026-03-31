@@ -1,9 +1,15 @@
+---
+title: "Product of Array Except Self"
+type: problem
+date: 2024-10-13
+maturity: seed
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]]
 
-2024-10-13  20:45
-
-Status:
-
-Tags: [[Leetcode]]
 
 # [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 

@@ -1,3 +1,10 @@
+---
+title: "8-Week Plan"
+type: reference
+draft: true
+tags:
+  - personal
+---
 
 **Start:** March 24  
 **End:** May 18  

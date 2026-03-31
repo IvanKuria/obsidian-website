@@ -1,9 +1,13 @@
-
-2024-10-19  15:30
-
-Status:
-
-Tags: [[React]], [[001 React Props]]
+---
+title: "Conditional Rendering"
+type: tutorial
+technology: react
+date: 2024-10-19
+maturity: seed
+tags:
+  - tutorial
+  - web-dev
+---
 
 # Conditional Rendering
 - allows you to control what gets rendered in your application based on certain conditions(show hide, or change components)
@@ -86,9 +90,9 @@ export default UserGreeting
 ## Results
 
 ### If logged in
-![[Pasted image 20241019153555.png]]
+![[react-conditional-rendering-logged-in.png]]
 
 ### If not logged in 
-![[Pasted image 20241019153628.png]]
+![[react-conditional-rendering-logged-out.png]]
 ## References
 [Bro Code](https://www.youtube.com/watch?v=CgkZ7MvWUAA)

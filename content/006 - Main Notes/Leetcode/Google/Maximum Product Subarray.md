@@ -1,9 +1,16 @@
-
-2025-09-20  11:34
-
-Status: #adult
-
-Tags: #leetcode #leetcode-medium #google #dynamic-programming  [[Leetcode]] 
+---
+title: "Maximum Product Subarray"
+type: problem
+difficulty: medium
+techniques:
+  - dynamic-programming
+date: 2025-09-20
+maturity: evergreen
+tags:
+  - leetcode
+  - cs
+  - problem
+---
 
 # [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 
@@ -32,7 +39,7 @@ class Solution(object):
 ```
 
 ### Explanation
-![[Pasted image 20250920114019.png]]
+![[leetcode-maximum-product-subarray-explanation.png]]
 - **Initialize**
     - `res = max(nums)` (best result seen so far)
     - `cur_max = cur_min = 1`

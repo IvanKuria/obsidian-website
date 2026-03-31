@@ -1,9 +1,18 @@
+---
+title: "Top K Frequent Words"
+type: problem
+difficulty: medium
+techniques:
+  - heaps
+date: 2025-09-18
+maturity: evergreen
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]]
 
-2025-09-18  11:03
-
-Status: #adult
-
-Tags: #leetcode #leetcode-medium #heaps [[Leetcode]] [[Heaps Intro]] #google #computer-science 
 
 # [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 

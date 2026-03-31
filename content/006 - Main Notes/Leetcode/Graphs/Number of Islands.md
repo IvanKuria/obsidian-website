@@ -1,9 +1,18 @@
+---
+title: "Number of Islands"
+type: problem
+difficulty: medium
+techniques:
+  - graphs
+date: 2025-09-17
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Graphs Intro]] | [[Leetcode MOC]]
 
-2025-09-17  12:08
-
-Status: #child
-
-Tags: #leetcode #leetcode-medium #graphs #computer-science [[Leetcode]] [[Graphs Intro]]
 
 # [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 

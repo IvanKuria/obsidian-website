@@ -1,9 +1,18 @@
+---
+title: "Maximum Subarray"
+type: problem
+difficulty: medium
+techniques:
+  - strings
+date: 2025-09-19
+maturity: evergreen
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]]
 
-2025-09-19  12:14
-
-Status: #adult
-
-Tags: #leetcode #leetcode-medium #google #strings [[Leetcode]]
 
 # [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 

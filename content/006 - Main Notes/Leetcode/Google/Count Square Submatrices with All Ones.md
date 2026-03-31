@@ -1,9 +1,17 @@
-
-2025-09-19  11:28
-
-Status: #adult
-
-Tags: #leetcode #leetcode-medium #dynamic-programming #backtrack [[Leetcode]] #google #computer-science
+---
+title: "Count Square Submatrices with All Ones"
+type: problem
+difficulty: medium
+techniques:
+  - backtrack
+  - dynamic-programming
+date: 2025-09-19
+maturity: evergreen
+tags:
+  - leetcode
+  - cs
+  - problem
+---
 
 # [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
 ### Code
@@ -42,7 +50,7 @@ class Solution(object):
 ```
 
 ### Explanation
-![[Pasted image 20250919113217.png]]
+![[leetcode-count-square-submatrices-grid.png]]
 1. Given an array like this, the tip to solving this problem is checking the minimum square that can be created from each point.
 2. Let's use the bottom right 1 as an example. We'll check the right, down and diagonal point relative to the 1 and see the minimum square that can be created.
 	1. **right**: 0

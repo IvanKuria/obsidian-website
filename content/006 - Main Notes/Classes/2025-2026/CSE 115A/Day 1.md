@@ -1,7 +1,12 @@
-Class: [[CSE 115A]]
-Subject: #computer-science #software-engineering
-Date: 2025-09-26
-Teacher: **Prof. Jullig
+---
+title: "Day 1"
+type: lecture
+class: CSE 115A
+date: 2025-09-26
+tags:
+  - cs
+  - software-engineering
+---
 
 # Intro
 

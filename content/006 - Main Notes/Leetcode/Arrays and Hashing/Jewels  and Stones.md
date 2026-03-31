@@ -1,9 +1,18 @@
+---
+title: "Jewels  and Stones"
+type: problem
+difficulty: easy
+techniques:
+  - strings
+date: 2025-08-13
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]] | [[Complexity Cheat Sheet]]
 
-2025-08-13  18:05
-
-Status: #child
-
-Tags: #strings #leetcode #leetcode-easy [[Leetcode]]
 
 # [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 

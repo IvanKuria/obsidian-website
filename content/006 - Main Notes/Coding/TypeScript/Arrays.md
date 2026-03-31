@@ -1,10 +1,15 @@
+---
+title: "Arrays"
+type: tutorial
+technology: typescript
+date: 2025-09-04
+maturity: growing
+tags:
+  - tutorial
+  - web-dev
+---
+**Topic:** [[Coding MOC]]
 
-
-2025-09-04  18:10
-
-Status: #child
-
-Tags: #typescript #computer-science 
 
 # Arrays in Typescript
 

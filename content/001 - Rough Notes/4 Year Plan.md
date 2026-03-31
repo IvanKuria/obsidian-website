@@ -1,3 +1,10 @@
+---
+title: "4 Year Plan"
+type: reference
+draft: true
+tags:
+  - personal
+---
 
 ## 2023-2024(Freshman)
 

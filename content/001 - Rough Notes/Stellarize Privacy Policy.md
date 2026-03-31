@@ -1,3 +1,10 @@
+---
+title: "Stellarize Privacy Policy"
+type: reference
+draft: true
+tags:
+  - project
+---
 
 **Last Updated: November 24, 2025**
 

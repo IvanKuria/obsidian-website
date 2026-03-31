@@ -1,9 +1,18 @@
+---
+title: "Group Anagrams"
+type: problem
+difficulty: medium
+techniques:
+  - hash-maps
+date: 2024-10-13
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]]
 
-2024-10-13  20:33
-
-Status: #child
-
-Tags: [[Leetcode]] #leetcode-medium #leetcode #hash-maps
 
 # [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 

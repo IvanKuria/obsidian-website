@@ -1,9 +1,18 @@
+---
+title: "Valid Parenthesis String"
+type: problem
+difficulty: medium
+techniques:
+  - dynamic-programming
+date: 2025-09-22
+maturity: evergreen
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]]
 
-2025-09-22  22:42
-
-Status: #adult 
-
-Tags: #leetcode #leetcode-medium #dynamic-programming #google [[Leetcode]]
 
 # [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
 

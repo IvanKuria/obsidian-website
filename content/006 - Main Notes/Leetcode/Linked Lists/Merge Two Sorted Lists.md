@@ -1,9 +1,18 @@
+---
+title: "Merge Two Sorted Lists"
+type: problem
+difficulty: easy
+techniques:
+  - linked-lists
+date: 2025-09-23
+maturity: evergreen
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Linked List Intro]] | [[Leetcode MOC]]
 
-2025-09-23  19:04
-
-Status: #adult
-
-Tags: #leetcode #leetcode-easy #linked-lists #computer-science [[Leetcode]]
 
 # [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 

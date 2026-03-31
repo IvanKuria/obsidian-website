@@ -1,9 +1,19 @@
+---
+title: "Find Closest Number to Zero"
+type: problem
+difficulty: easy
+techniques:
+  - arrays
+  - strings
+date: 2025-08-11
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]]
 
-2025-08-11  13:51
-
-Status: #child
-
-Tags: #arrays #strings #leetcode #leetcode-easy [[Leetcode]]
 
 # [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/)
 

@@ -1,9 +1,19 @@
+---
+title: "Binary Search"
+type: problem
+difficulty: easy
+techniques:
+  - two-pointers
+  - binary-search
+date: 2024-09-03
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]]
 
-2024-09-03  21:23
-
-Status: #child
-
-Tags: [[Leetcode]] #binary-search #leetcode #leetcode-easy #two-pointers 
 
 # [Binary Search](https://leetcode.com/problems/binary-search/)
 

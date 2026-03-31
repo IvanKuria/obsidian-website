@@ -1,9 +1,18 @@
+---
+title: "Squares of a Sorted Array"
+type: problem
+difficulty: easy
+techniques:
+  - two-pointers
+date: 2025-09-22
+maturity: evergreen
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]]
 
-2025-09-22  19:06
-
-Status: #adult
-
-Tags: #leetcode #leetcode-easy #two-pointers #google [[Leetcode]]
 
 # [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 

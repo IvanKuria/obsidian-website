@@ -1,9 +1,15 @@
+---
+title: "Loops"
+type: tutorial
+technology: rust
+date: 2025-01-07
+maturity: growing
+tags:
+  - tutorial
+  - cs
+---
+**Topic:** [[Coding MOC]]
 
-2025-01-07  14:12
-
-Status: #child
-
-Tags: #rust
 
 # Iterating over a String
 

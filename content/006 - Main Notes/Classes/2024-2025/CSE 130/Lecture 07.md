@@ -1,7 +1,12 @@
-Class: [[CSE 130]]
-Subject: #computer-science #computer-systems 
-Date: 2025-04-30
-Teacher: **Dr. Veenstra
+---
+title: "Lecture 07"
+type: lecture
+class: CSE 130
+date: 2025-04-30
+tags:
+  - cs
+  - operating-systems
+---
 
 # Modularity
 
@@ -35,7 +40,7 @@ Teacher: **Dr. Veenstra
 	- i.e. calling *processPayment()* from Stripe's API
 - uses stubs to pack/unpack arguments and communicate
 
-![[Pasted image 20250501132424.png]]
+![[cse130-rpc-diagram.png]]
 [Reference](https://www.youtube.com/watch?v=S2osKiqQG9s) 
 ### Benefits
 - familiar interface for developers

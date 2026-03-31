@@ -1,7 +1,11 @@
-Class: [[CSE 101]]
-Subject: #computer-science 
-Date: 2025-01-06
-Teacher: **Prof. Tantalo**
+---
+title: "Day 1"
+type: lecture
+class: CSE 101
+date: 2025-01-06
+tags:
+  - cs
+  - algorithms
+---
 
 # Introduction
-

@@ -1,9 +1,18 @@
+---
+title: "Task Scheduler"
+type: problem
+difficulty: medium
+techniques:
+  - heaps
+date: 2025-09-11
+maturity: growing
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Heaps Intro]] | [[Leetcode MOC]] | [[Complexity Cheat Sheet]]
 
-2025-09-11  10:25
-
-Status: #child
-
-Tags: #leetcode #leetcode-medium #heaps [[Heaps Intro]] [[Leetcode]]
 
 #  [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 

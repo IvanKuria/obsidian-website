@@ -1,9 +1,18 @@
+---
+title: "Generate Parentheses"
+type: problem
+difficulty: medium
+techniques:
+  - backtrack
+date: 2025-09-20
+maturity: seed
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Leetcode MOC]]
 
-2025-09-20  12:00
-
-Status:
-
-Tags: #leetcode #leetcode-medium #google #backtrack [[Leetcode]] [[Backtracking Intro]] #computer-science 
 
 # [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 

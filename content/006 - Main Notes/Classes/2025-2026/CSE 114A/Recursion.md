@@ -1,7 +1,12 @@
-Class: [[CSE 114A]]
-Subject: #computer-science #haskell
-Date: 2026-01-28
-Teacher: **Prof. Miller
+---
+title: "Recursion"
+type: lecture
+class: CSE 114A
+date: 2026-01-28
+tags:
+  - cs
+  - programming-languages
+---
 
 # Recursion, Guards, Patterns
 
@@ -25,4 +30,3 @@ fac n
 	n <= 1 = 1
 	otherwise n * fac (n - 1)
 ```
-

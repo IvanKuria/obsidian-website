@@ -1,7 +1,12 @@
-Class: [[CSE 120]]
-Subject: #computer-science #computer-architecture
-Date: 2025-04-07
-Teacher: **Prof. Nath
+---
+title: "Lecture 02"
+type: lecture
+class: CSE 120
+date: 2025-04-07
+tags:
+  - cs
+  - computer-architecture
+---
 
 # Transistors
 
@@ -14,7 +19,7 @@ Teacher: **Prof. Nath
 - a huge drawback to Denard Scaling is that it ignored the "leakage current" and "threshold voltage" which establish a baseline of power per transistor.
 - as a result, it has created a "power wall" that has limited processor frequency to around 4GHz since 2006(yikes!)
 
-![[Pasted image 20250407141306.png]]
+![[cse120-denard-scaling-power-wall.png]]
 
 ### Potential Improvements
 1. Using multiple cores
@@ -37,7 +42,7 @@ Teacher: **Prof. Nath
 - [[clock frequency]]/[[clock rate]]/[[clock speed]] is cycles per second
 	- i.e. $4.0GHz = 4000MHz = 4.0 * 10^9Hz$
 
-![[Pasted image 20250407142511.png]]
+![[cse120-clock-period-frequency.png]]
 
 ### Execution Time
 - Execution Time = Cycles Per Program * Clock Cycle Time
@@ -51,12 +56,12 @@ Teacher: **Prof. Nath
 - [[bandwidth]] is also known as [[throughput]]
 - bandwidth refers to how much of $X$ work is done in a given time.
 
-![[Pasted image 20250416152214.png]]
+![[cse120-bandwidth-throughput.png]]
 
 ## Speed Up
 - performance overall improved execution for a whole problem
 
-![[Pasted image 20250416152400.png | 300]]
+![[cse120-speedup-formula.png | 300]]
 
 - for future reference, use (times or x)
 	- i.e. 2.1x speed up

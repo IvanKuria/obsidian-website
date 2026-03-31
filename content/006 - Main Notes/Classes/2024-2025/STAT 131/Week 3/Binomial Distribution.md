@@ -1,7 +1,11 @@
-Class: [[STAT 131]]
-Subject: #probability 
-Date: 2025-01-29
-Teacher: **Prof. Marcela
+---
+title: "Binomial Distribution"
+type: lecture
+class: STAT 131
+date: 2025-01-29
+tags:
+  - statistics
+---
 
 # Binomial Distribution
 
@@ -28,4 +32,4 @@ k = target value
 	Formula: $P(X = K) = \binom{n}{k}p^k(1-p)^{n-k}$
 	
 	- P(X = 40) = $$\binom{100}{40}(0.2)^{40}(0.8)^{60} = 2.316e^-6$$
-	- P(x >= 30) = 
+	- P(x >= 30) =

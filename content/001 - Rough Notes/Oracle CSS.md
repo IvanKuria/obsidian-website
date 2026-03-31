@@ -1,3 +1,12 @@
+---
+title: "Oracle CSS"
+type: reference
+tags:
+  - career
+---
+
+**Related:** [[Oracle Prep]] | [[Leetcode MOC]] | [[Internship Notes]]
+
 # Oracle SWE Intern — Technical Interview Prep
 
   

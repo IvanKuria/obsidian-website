@@ -1,9 +1,18 @@
+---
+title: "Combinations"
+type: problem
+difficulty: medium
+techniques:
+  - backtrack
+date: 2025-09-15
+maturity: evergreen
+tags:
+  - leetcode
+  - cs
+  - problem
+---
+**Topic:** [[Backtracking Intro]] | [[Leetcode MOC]]
 
-2025-09-15  18:21
-
-Status: #adult
-
-Tags: #leetcode #backtrack #leetcode-medium [[Backtracking Intro]] [[Subsets]] [[Combination Sum]]
 
 # [Combinations](https://leetcode.com/problems/combinations/)
 

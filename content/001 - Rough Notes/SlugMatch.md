@@ -1,3 +1,12 @@
+---
+title: "SlugMatch"
+type: project
+tags:
+  - project
+---
+
+**Related:** [[SlugMatch Sprint Tickets (1 Month Timeline)]] | [[Projects MOC]]
+
 # SlugMatch Sprint Tickets
 
   

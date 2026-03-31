@@ -1,9 +1,15 @@
+---
+title: "Get Requests"
+type: tutorial
+technology: express
+date: 2025-03-26
+maturity: evergreen
+tags:
+  - tutorial
+  - web-dev
+---
+**Topic:** [[Coding MOC]]
 
-2025-03-26  14:49
-
-Status: #adult
-
-Tags: #computer-science #expressjs #backend 
 
 # Get Requests
 

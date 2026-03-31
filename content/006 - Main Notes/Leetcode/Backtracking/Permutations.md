@@ -1,9 +1,16 @@
-
-2025-09-15  19:40
-
-Status: #adult
-
-Tags: #leetcode #leetcode-medium #backtrack [[Backtracking Intro]] [[Subsets]]
+---
+title: "Permutations"
+type: problem
+difficulty: medium
+techniques:
+  - backtrack
+date: 2025-09-15
+maturity: evergreen
+tags:
+  - leetcode
+  - cs
+  - problem
+---
 
 # [Permutations](https://leetcode.com/problems/permutations/)
 
